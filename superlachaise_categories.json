@@ -1,0 +1,281 @@
+{
+    "about": {
+        "api_version": "0.4.2",
+        "licence": "https://api.superlachaise.fr/perelachaise/api/licence/",
+        "source": "https://api.superlachaise.fr"
+    },
+    "superlachaise_categories": [
+        {
+            "code": "art",
+            "localizations": [
+                {
+                    "id": 1,
+                    "language_code": "en",
+                    "name": "Art"
+                },
+                {
+                    "id": 19,
+                    "language_code": "fr",
+                    "name": "Art"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "cinema",
+            "localizations": [
+                {
+                    "id": 2,
+                    "language_code": "en",
+                    "name": "Cinema"
+                },
+                {
+                    "id": 21,
+                    "language_code": "fr",
+                    "name": "Cinéma"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "literature",
+            "localizations": [
+                {
+                    "id": 3,
+                    "language_code": "en",
+                    "name": "Literature"
+                },
+                {
+                    "id": 24,
+                    "language_code": "fr",
+                    "name": "Littérature"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "medias",
+            "localizations": [
+                {
+                    "id": 4,
+                    "language_code": "en",
+                    "name": "Medias"
+                },
+                {
+                    "id": 26,
+                    "language_code": "fr",
+                    "name": "Médias"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "memorial",
+            "localizations": [
+                {
+                    "id": 5,
+                    "language_code": "en",
+                    "name": "Memorials"
+                },
+                {
+                    "id": 27,
+                    "language_code": "fr",
+                    "name": "Mémoriaux"
+                }
+            ],
+            "type": "element_nature"
+        },
+        {
+            "code": "men",
+            "localizations": [
+                {
+                    "id": 6,
+                    "language_code": "en",
+                    "name": "Men"
+                },
+                {
+                    "id": 23,
+                    "language_code": "fr",
+                    "name": "Hommes"
+                }
+            ],
+            "type": "sex_or_gender"
+        },
+        {
+            "code": "military",
+            "localizations": [
+                {
+                    "id": 7,
+                    "language_code": "en",
+                    "name": "Military"
+                },
+                {
+                    "id": 18,
+                    "language_code": "fr",
+                    "name": "Armée"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "music",
+            "localizations": [
+                {
+                    "id": 8,
+                    "language_code": "en",
+                    "name": "Music"
+                },
+                {
+                    "id": 25,
+                    "language_code": "fr",
+                    "name": "Musique"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "other",
+            "localizations": [
+                {
+                    "id": 9,
+                    "language_code": "en",
+                    "name": "Other"
+                },
+                {
+                    "id": 20,
+                    "language_code": "fr",
+                    "name": "Autre"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "performing_arts",
+            "localizations": [
+                {
+                    "id": 10,
+                    "language_code": "en",
+                    "name": "Performing arts"
+                },
+                {
+                    "id": 31,
+                    "language_code": "fr",
+                    "name": "Spectacle vivant"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "philosophy",
+            "localizations": [
+                {
+                    "id": 11,
+                    "language_code": "en",
+                    "name": "Philosophy"
+                },
+                {
+                    "id": 28,
+                    "language_code": "fr",
+                    "name": "Philosophie"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "politics",
+            "localizations": [
+                {
+                    "id": 12,
+                    "language_code": "en",
+                    "name": "Politics"
+                },
+                {
+                    "id": 29,
+                    "language_code": "fr",
+                    "name": "Politique"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "research",
+            "localizations": [
+                {
+                    "id": 13,
+                    "language_code": "en",
+                    "name": "Research"
+                },
+                {
+                    "id": 30,
+                    "language_code": "fr",
+                    "name": "Recherche scientifique"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "theatre",
+            "localizations": [
+                {
+                    "id": 14,
+                    "language_code": "en",
+                    "name": "Theatre"
+                },
+                {
+                    "id": 32,
+                    "language_code": "fr",
+                    "name": "Théâtre"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "tomb",
+            "localizations": [
+                {
+                    "id": 15,
+                    "language_code": "en",
+                    "name": "Tombs"
+                },
+                {
+                    "id": 33,
+                    "language_code": "fr",
+                    "name": "Tombes"
+                }
+            ],
+            "type": "element_nature"
+        },
+        {
+            "code": "urbanism",
+            "localizations": [
+                {
+                    "id": 16,
+                    "language_code": "en",
+                    "name": "Urban planning"
+                },
+                {
+                    "id": 34,
+                    "language_code": "fr",
+                    "name": "Urbanisme"
+                }
+            ],
+            "type": "occupation"
+        },
+        {
+            "code": "women",
+            "localizations": [
+                {
+                    "id": 17,
+                    "language_code": "en",
+                    "name": "Women"
+                },
+                {
+                    "id": 22,
+                    "language_code": "fr",
+                    "name": "Femmes"
+                }
+            ],
+            "type": "sex_or_gender"
+        }
+    ]
+}
