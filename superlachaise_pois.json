@@ -133,7 +133,7 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "military"
+                    "code": "other"
                 },
                 {
                     "code": "men"
@@ -2528,9 +2528,6 @@
             "superlachaise_categories": [
                 {
                     "code": "tomb"
-                },
-                {
-                    "code": "military"
                 },
                 {
                     "code": "politics"
@@ -6511,9 +6508,6 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "military"
-                },
-                {
                     "code": "politics"
                 },
                 {
@@ -7351,9 +7345,6 @@
             "superlachaise_categories": [
                 {
                     "code": "tomb"
-                },
-                {
-                    "code": "military"
                 },
                 {
                     "code": "politics"
@@ -8673,7 +8664,7 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "military"
+                    "code": "other"
                 },
                 {
                     "code": "men"
@@ -9102,9 +9093,6 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "military"
-                },
-                {
                     "code": "politics"
                 },
                 {
@@ -9208,9 +9196,6 @@
             "superlachaise_categories": [
                 {
                     "code": "tomb"
-                },
-                {
-                    "code": "military"
                 },
                 {
                     "code": "politics"
@@ -10528,7 +10513,7 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "military"
+                    "code": "other"
                 },
                 {
                     "code": "men"
@@ -10735,9 +10720,6 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "military"
-                },
-                {
                     "code": "politics"
                 },
                 {
@@ -10890,9 +10872,6 @@
             "superlachaise_categories": [
                 {
                     "code": "tomb"
-                },
-                {
-                    "code": "military"
                 },
                 {
                     "code": "politics"
@@ -11732,9 +11711,6 @@
             "superlachaise_categories": [
                 {
                     "code": "tomb"
-                },
-                {
-                    "code": "military"
                 },
                 {
                     "code": "politics"
@@ -13090,10 +13066,10 @@
         },
         {
             "burial_plot_reference": "32",
-            "date_of_birth": "1769-01-01",
-            "date_of_birth_accuracy": "Year",
-            "date_of_death": "1851-01-01",
-            "date_of_death_accuracy": "Year",
+            "date_of_birth": "1786-06-29",
+            "date_of_birth_accuracy": "Day",
+            "date_of_death": "1870-11-17",
+            "date_of_death_accuracy": "Day",
             "id": 168,
             "localizations": [
                 {
