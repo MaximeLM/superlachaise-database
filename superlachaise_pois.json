@@ -2482,6 +2482,9 @@
                     "code": "literature"
                 },
                 {
+                    "code": "theatre"
+                },
+                {
                     "code": "women"
                 }
             ],
@@ -12322,6 +12325,9 @@
                     "code": "medias"
                 },
                 {
+                    "code": "theatre"
+                },
+                {
                     "code": "men"
                 }
             ],
@@ -12667,6 +12673,9 @@
                 },
                 {
                     "code": "medias"
+                },
+                {
+                    "code": "theatre"
                 },
                 {
                     "code": "men"
