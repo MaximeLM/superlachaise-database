@@ -1,6 +1,6 @@
 {
     "about": {
-        "api_version": "0.4.2",
+        "api_version": "0.4.3",
         "licence": "https://api.superlachaise.fr/perelachaise/api/licence/",
         "source": "https://api.superlachaise.fr"
     },
@@ -78,6 +78,12 @@
             "type": "node"
         },
         {
+            "latitude": "48.8635669",
+            "longitude": "2.3911483",
+            "openstreetmap_id": "1688357881",
+            "type": "node"
+        },
+        {
             "latitude": "48.8630003",
             "longitude": "2.3973941",
             "openstreetmap_id": "3161340330",
@@ -132,8 +138,8 @@
             "type": "node"
         },
         {
-            "latitude": "48.8632383",
-            "longitude": "2.3933720",
+            "latitude": "48.8631335",
+            "longitude": "2.3933669",
             "openstreetmap_id": "312059802",
             "type": "way"
         },
@@ -768,8 +774,8 @@
             "type": "node"
         },
         {
-            "latitude": "48.8591715",
-            "longitude": "2.3918962",
+            "latitude": "48.8591916",
+            "longitude": "2.3918972",
             "openstreetmap_id": "4214999",
             "type": "relation"
         },
@@ -834,8 +840,8 @@
             "type": "node"
         },
         {
-            "latitude": "48.8622338",
-            "longitude": "2.3943620",
+            "latitude": "48.8623225",
+            "longitude": "2.3943663",
             "openstreetmap_id": "300549334",
             "type": "way"
         },
@@ -1038,8 +1044,8 @@
             "type": "node"
         },
         {
-            "latitude": "48.8609317",
-            "longitude": "2.3919019",
+            "latitude": "48.8609064",
+            "longitude": "2.3919064",
             "openstreetmap_id": "311412497",
             "type": "way"
         },
@@ -1170,8 +1176,8 @@
             "type": "node"
         },
         {
-            "latitude": "48.8583432",
-            "longitude": "2.3956697",
+            "latitude": "48.8583882",
+            "longitude": "2.3956719",
             "openstreetmap_id": "314136876",
             "type": "way"
         },
@@ -1428,8 +1434,8 @@
             "type": "node"
         },
         {
-            "latitude": "48.8595775",
-            "longitude": "2.3949402",
+            "latitude": "48.8595742",
+            "longitude": "2.3949400",
             "openstreetmap_id": "267099784",
             "type": "way"
         },
@@ -1446,8 +1452,8 @@
             "type": "node"
         },
         {
-            "latitude": "48.8611126",
-            "longitude": "2.3929710",
+            "latitude": "48.8611197",
+            "longitude": "2.3929716",
             "openstreetmap_id": "156649519",
             "type": "way"
         },

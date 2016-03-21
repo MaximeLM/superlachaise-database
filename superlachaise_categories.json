@@ -1,6 +1,6 @@
 {
     "about": {
-        "api_version": "0.4.2",
+        "api_version": "0.4.3",
         "licence": "https://api.superlachaise.fr/perelachaise/api/licence/",
         "source": "https://api.superlachaise.fr"
     },

@@ -1,6 +1,6 @@
 {
     "about": {
-        "api_version": "0.4.2",
+        "api_version": "0.4.3",
         "licence": "https://api.superlachaise.fr/perelachaise/api/licence/",
         "source": "https://api.superlachaise.fr"
     },
@@ -2788,6 +2788,9 @@
                     "wikimedia_commons_id": "File:Arago grave.jpg"
                 },
                 {
+                    "wikimedia_commons_id": "File:Paris Père Lachaise François Arago.JPG"
+                },
+                {
                     "wikimedia_commons_id": "File:Père-Lachaise - Division 4 - Arago 01.jpg"
                 },
                 {
@@ -4107,6 +4110,9 @@
                 },
                 {
                     "wikimedia_commons_id": "File:Normand - Monuments funéraires choisis dans les cimetières de Paris - Planche 43.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Paris Père Lachaise La Fontaine et Molière.JPG"
                 },
                 {
                     "wikimedia_commons_id": "File:Pernot - tombe de Jean de La Fontaine 01.jpg"

@@ -1,6 +1,6 @@
 {
     "about": {
-        "api_version": "0.4.2",
+        "api_version": "0.4.3",
         "licence": "https://api.superlachaise.fr/perelachaise/api/licence/",
         "source": "https://api.superlachaise.fr"
     },
@@ -2197,7 +2197,7 @@
             "id": 169,
             "localizations": [
                 {
-                    "description": "French actor",
+                    "description": "French actress",
                     "id": 337,
                     "language_code": "en",
                     "name": "Silvia Monfort",
@@ -3987,10 +3987,10 @@
         },
         {
             "burial_plot_reference": "43",
-            "date_of_birth": "1791-01-01",
-            "date_of_birth_accuracy": "Year",
-            "date_of_death": "1873-01-01",
-            "date_of_death_accuracy": "Year",
+            "date_of_birth": "1797-07-01",
+            "date_of_birth_accuracy": "Day",
+            "date_of_death": "1873-05-15",
+            "date_of_death_accuracy": "Day",
             "id": 147,
             "localizations": [
                 {
@@ -9353,7 +9353,7 @@
                     "description": "French politician",
                     "id": 31,
                     "language_code": "en",
-                    "name": "Paul François Jean Nicolas, vicomte de Barras",
+                    "name": "Paul Barras",
                     "sorting_name": "Barras, Paul Francois Nicolas"
                 },
                 {
@@ -13859,6 +13859,45 @@
             "wikimedia_commons_category": {
                 "wikimedia_commons_id": "Category:Grave of Delpech (Père-Lachaise, division 49)"
             }
+        },
+        {
+            "burial_plot_reference": "",
+            "date_of_birth": null,
+            "date_of_birth_accuracy": "",
+            "date_of_death": null,
+            "date_of_death_accuracy": "",
+            "id": 266,
+            "localizations": [
+                {
+                    "description": "",
+                    "id": 531,
+                    "language_code": "en",
+                    "name": "Aux victimes des Révolutions",
+                    "sorting_name": "Aux victimes des Révolutions"
+                },
+                {
+                    "description": "",
+                    "id": 532,
+                    "language_code": "fr",
+                    "name": "Aux victimes des Révolutions",
+                    "sorting_name": "Aux victimes des Révolutions"
+                }
+            ],
+            "openstreetmap_element": {
+                "openstreetmap_id": "1688357881",
+                "type": "node"
+            },
+            "superlachaise_categories": [
+                {
+                    "code": "memorial"
+                }
+            ],
+            "wikidata_entries": {
+                "artists": [],
+                "others": [],
+                "persons": []
+            },
+            "wikimedia_commons_category": null
         }
     ]
 }
