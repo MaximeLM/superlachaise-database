@@ -1,6 +1,6 @@
 {
     "about": {
-        "api_version": "0.4.3",
+        "api_version": "0.4.4",
         "licence": "https://api.superlachaise.fr/perelachaise/api/licence/",
         "source": "https://api.superlachaise.fr"
     },
@@ -464,7 +464,7 @@
                 ]
             },
             "wikimedia_commons_category": {
-                "wikimedia_commons_id": "Category:Grave of Eugène Delacroix"
+                "wikimedia_commons_id": "Category:Grave of Delacroix (Père-Lachaise, division 49)"
             }
         },
         {
@@ -6578,7 +6578,7 @@
                 ]
             },
             "wikimedia_commons_category": {
-                "wikimedia_commons_id": "Category:Grave of Émile Oberkampf"
+                "wikimedia_commons_id": "Category:Grave of Oberkampf (Père-Lachaise, division 39)"
             }
         },
         {
@@ -10109,7 +10109,7 @@
                 ]
             },
             "wikimedia_commons_category": {
-                "wikimedia_commons_id": "Category:Grave of Marcel Marceau"
+                "wikimedia_commons_id": "Category:Grave of Marceau (Père-Lachaise, division 21)"
             }
         },
         {
@@ -13682,7 +13682,7 @@
                 ]
             },
             "wikimedia_commons_category": {
-                "wikimedia_commons_id": "Category:Grave of Félix de Beaujour"
+                "wikimedia_commons_id": "Category:Grave of Beaujour (Père-Lachaise, division 48)"
             }
         },
         {
@@ -13859,45 +13859,6 @@
             "wikimedia_commons_category": {
                 "wikimedia_commons_id": "Category:Grave of Delpech (Père-Lachaise, division 49)"
             }
-        },
-        {
-            "burial_plot_reference": "",
-            "date_of_birth": null,
-            "date_of_birth_accuracy": "",
-            "date_of_death": null,
-            "date_of_death_accuracy": "",
-            "id": 266,
-            "localizations": [
-                {
-                    "description": "",
-                    "id": 531,
-                    "language_code": "en",
-                    "name": "Aux victimes des Révolutions",
-                    "sorting_name": "Aux victimes des Révolutions"
-                },
-                {
-                    "description": "",
-                    "id": 532,
-                    "language_code": "fr",
-                    "name": "Aux victimes des Révolutions",
-                    "sorting_name": "Aux victimes des Révolutions"
-                }
-            ],
-            "openstreetmap_element": {
-                "openstreetmap_id": "1688357881",
-                "type": "node"
-            },
-            "superlachaise_categories": [
-                {
-                    "code": "memorial"
-                }
-            ],
-            "wikidata_entries": {
-                "artists": [],
-                "others": [],
-                "persons": []
-            },
-            "wikimedia_commons_category": null
         }
     ]
 }

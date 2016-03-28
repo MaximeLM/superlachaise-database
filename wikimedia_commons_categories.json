@@ -1,6 +1,6 @@
 {
     "about": {
-        "api_version": "0.4.3",
+        "api_version": "0.4.4",
         "licence": "https://api.superlachaise.fr/perelachaise/api/licence/",
         "source": "https://api.superlachaise.fr"
     },
@@ -1172,6 +1172,38 @@
         {
             "category_members": [
                 {
+                    "wikimedia_commons_id": "File:Marty - Les principaux monuments funéraires - Beaujour.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Felix de beaujour.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Grave of Félix de Beaujour November 4, 2012.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Avenue transversale n°1 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 48 - Beaujour 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 48 - Beaujour 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 48 - Beaujour 03.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 48 - Beaujour 04.jpg"
+                }
+            ],
+            "main_image": {
+                "wikimedia_commons_id": "File:Père-Lachaise - Division 48 - Beaujour 02.jpg"
+            },
+            "wikimedia_commons_id": "Category:Grave of Beaujour (Père-Lachaise, division 48)"
+        },
+        {
+            "category_members": [
+                {
                     "wikimedia_commons_id": "File:Père-Lachaise - Division 37 - Béhague 01.jpg"
                 }
             ],
@@ -2007,6 +2039,59 @@
         {
             "category_members": [
                 {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Eugène Delacroix 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Perelachaise-Delacroix-p1000397.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Tomba di Eugène Delacroix.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Delacroix grave.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Eugène Delacroix 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Acte de concession à perpétuité d'un terrain dans le cimetière de l'Est 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Acte de concession à perpétuité d'un terrain dans le cimetière de l'Est 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 03.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 04.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 05.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 06.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 07.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Unknown - Grave of Eugène Delacroix.jpg"
+                }
+            ],
+            "main_image": {
+                "wikimedia_commons_id": "File:Père-Lachaise - Eugène Delacroix 01.jpg"
+            },
+            "wikimedia_commons_id": "Category:Grave of Delacroix (Père-Lachaise, division 49)"
+        },
+        {
+            "category_members": [
+                {
                     "wikimedia_commons_id": "File:Père-Lachaise - Division 53 - Del Duca 01.jpg"
                 },
                 {
@@ -2402,8 +2487,32 @@
             "wikimedia_commons_id": "Category:Grave of Élisabeth Rachel Félix"
         },
         {
-            "category_members": [],
-            "main_image": null,
+            "category_members": [
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 03.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 04.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 05.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 06.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Tombe de Christophe-Philippe Oberkampf - Père Lachaise.JPG"
+                }
+            ],
+            "main_image": {
+                "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 01.jpg"
+            },
             "wikimedia_commons_id": "Category:Grave of Émile Oberkampf"
         },
         {
@@ -2588,8 +2697,56 @@
             "wikimedia_commons_id": "Category:Grave of Étienne Jacques Joseph Alexandre Macdonald"
         },
         {
-            "category_members": [],
-            "main_image": null,
+            "category_members": [
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Eugène Delacroix 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Perelachaise-Delacroix-p1000397.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Tomba di Eugène Delacroix.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Delacroix grave.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Eugène Delacroix 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Acte de concession à perpétuité d'un terrain dans le cimetière de l'Est 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Acte de concession à perpétuité d'un terrain dans le cimetière de l'Est 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 03.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 04.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 05.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 06.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Projet pour la sépulture de Delacroix au cimetière du Père Lachaise 07.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Unknown - Grave of Eugène Delacroix.jpg"
+                }
+            ],
+            "main_image": {
+                "wikimedia_commons_id": "File:Père-Lachaise - Eugène Delacroix 01.jpg"
+            },
             "wikimedia_commons_id": "Category:Grave of Eugène Delacroix"
         },
         {
@@ -2662,8 +2819,35 @@
             "wikimedia_commons_id": "Category:Grave of Fechner (Père-Lachaise, division 61)"
         },
         {
-            "category_members": [],
-            "main_image": null,
+            "category_members": [
+                {
+                    "wikimedia_commons_id": "File:Marty - Les principaux monuments funéraires - Beaujour.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Felix de beaujour.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Grave of Félix de Beaujour November 4, 2012.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Avenue transversale n°1 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 48 - Beaujour 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 48 - Beaujour 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 48 - Beaujour 03.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 48 - Beaujour 04.jpg"
+                }
+            ],
+            "main_image": {
+                "wikimedia_commons_id": "File:Père-Lachaise - Division 48 - Beaujour 02.jpg"
+            },
             "wikimedia_commons_id": "Category:Grave of Félix de Beaujour"
         },
         {
@@ -5254,6 +5438,50 @@
         {
             "category_members": [
                 {
+                    "wikimedia_commons_id": "File:Marcel Marceau.JPG"
+                },
+                {
+                    "wikimedia_commons_id": "File:Tombe marceau.JPG"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 03.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 04.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Tombe de Marcel Marceau (division 21).JPG"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 05.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 06.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 07.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 08.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 09.jpg"
+                }
+            ],
+            "main_image": {
+                "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 07.jpg"
+            },
+            "wikimedia_commons_id": "Category:Grave of Marceau (Père-Lachaise, division 21)"
+        },
+        {
+            "category_members": [
+                {
                     "wikimedia_commons_id": "File:Père-Lachaise - Division 97 - Cachin 01.jpg"
                 }
             ],
@@ -5263,8 +5491,47 @@
             "wikimedia_commons_id": "Category:Grave of Marcel Cachin"
         },
         {
-            "category_members": [],
-            "main_image": null,
+            "category_members": [
+                {
+                    "wikimedia_commons_id": "File:Marcel Marceau.JPG"
+                },
+                {
+                    "wikimedia_commons_id": "File:Tombe marceau.JPG"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 03.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 04.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Tombe de Marcel Marceau (division 21).JPG"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 05.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 06.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 07.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 08.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 09.jpg"
+                }
+            ],
+            "main_image": {
+                "wikimedia_commons_id": "File:Père-Lachaise - Division 21 - Marceau 07.jpg"
+            },
             "wikimedia_commons_id": "Category:Grave of Marcel Marceau"
         },
         {
@@ -5880,6 +6147,35 @@
                 "wikimedia_commons_id": "File:Père-Lachaise - Division 89 - Nohain 01.jpg"
             },
             "wikimedia_commons_id": "Category:Grave of Nohain (Père-Lachaise, division 89)"
+        },
+        {
+            "category_members": [
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 02.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 03.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 04.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 05.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 06.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Tombe de Christophe-Philippe Oberkampf - Père Lachaise.JPG"
+                }
+            ],
+            "main_image": {
+                "wikimedia_commons_id": "File:Père-Lachaise - Division 39 - Oberkampf 01.jpg"
+            },
+            "wikimedia_commons_id": "Category:Grave of Oberkampf (Père-Lachaise, division 39)"
         },
         {
             "category_members": [

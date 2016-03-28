@@ -1,6 +1,6 @@
 {
     "about": {
-        "api_version": "0.4.3",
+        "api_version": "0.4.4",
         "licence": "https://api.superlachaise.fr/perelachaise/api/licence/",
         "source": "https://api.superlachaise.fr"
     },
@@ -75,12 +75,6 @@
             "latitude": "48.8610990",
             "longitude": "2.3973950",
             "openstreetmap_id": "2765555550",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8635669",
-            "longitude": "2.3911483",
-            "openstreetmap_id": "1688357881",
             "type": "node"
         },
         {
@@ -1566,15 +1560,15 @@
             "type": "node"
         },
         {
-            "latitude": "48.8612940",
-            "longitude": "2.3990650",
-            "openstreetmap_id": "2765555552",
-            "type": "node"
-        },
-        {
             "latitude": "48.8603710",
             "longitude": "2.3963320",
             "openstreetmap_id": "2766193914",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8612940",
+            "longitude": "2.3990650",
+            "openstreetmap_id": "2765555552",
             "type": "node"
         },
         {
