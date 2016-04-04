@@ -3085,7 +3085,7 @@
         },
         {
             "burial_plot_reference": "96",
-            "date_of_birth": "1910-08-05",
+            "date_of_birth": "1910-08-04",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1979-04-01",
             "date_of_death_accuracy": "Day",
@@ -9912,8 +9912,8 @@
             "burial_plot_reference": "11",
             "date_of_birth": "1936-01-01",
             "date_of_birth_accuracy": "Year",
-            "date_of_death": "2009-01-01",
-            "date_of_death_accuracy": "Year",
+            "date_of_death": "2009-02-15",
+            "date_of_death_accuracy": "Day",
             "id": 253,
             "localizations": [
                 {
