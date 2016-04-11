@@ -1624,6 +1624,12 @@
                     "wikimedia_commons_id": "File:Père-Lachaise - Charles Crozatier 08.jpg"
                 },
                 {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 49 - chemin de la Cave 14.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 49 - chemin de la Cave 15.jpg"
+                },
+                {
                     "wikimedia_commons_id": "File:Père-Lachaise - Division 49 - Crozatier 01.jpg"
                 },
                 {
@@ -4740,6 +4746,9 @@
         },
         {
             "category_members": [
+                {
+                    "wikimedia_commons_id": "File:Père-Lachaise - Division 49 - chemin de la Cave 02.jpg"
+                },
                 {
                     "wikimedia_commons_id": "File:Père-Lachaise - Division 49 - Lamy 01.jpg"
                 }
