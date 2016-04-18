@@ -1,1448 +1,14 @@
 {
     "about": {
-        "api_version": "0.4.4",
+        "api_version": "0.5.0",
         "licence": "https://api.superlachaise.fr/perelachaise/api/licence/",
         "source": "https://api.superlachaise.fr"
     },
     "openstreetmap_elements": [
         {
-            "latitude": "48.8607200",
-            "longitude": "2.3949340",
-            "openstreetmap_id": "2649596674",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8610160",
-            "longitude": "2.3990960",
-            "openstreetmap_id": "2628689416",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8610650",
-            "longitude": "2.3949100",
-            "openstreetmap_id": "2697001973",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8616940",
-            "longitude": "2.3901270",
-            "openstreetmap_id": "2647658051",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8583980",
-            "longitude": "2.3953650",
-            "openstreetmap_id": "2707952426",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8609848",
-            "longitude": "2.3913417",
-            "openstreetmap_id": "2728217039",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8626557",
-            "longitude": "2.3947199",
-            "openstreetmap_id": "1915793658",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8611720",
-            "longitude": "2.3939770",
-            "openstreetmap_id": "2697001976",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8605360",
-            "longitude": "2.3911140",
-            "openstreetmap_id": "2649520651",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607620",
-            "longitude": "2.3921660",
-            "openstreetmap_id": "2663061680",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8597856",
-            "longitude": "2.3928042",
-            "openstreetmap_id": "1915793687",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8610990",
-            "longitude": "2.3973950",
-            "openstreetmap_id": "2765555550",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8630003",
-            "longitude": "2.3973941",
-            "openstreetmap_id": "3161340330",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8627718",
-            "longitude": "2.3931199",
-            "openstreetmap_id": "1915793659",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8601690",
-            "longitude": "2.3998480",
-            "openstreetmap_id": "2628752275",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8591390",
-            "longitude": "2.3959850",
-            "openstreetmap_id": "2674707235",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8588825",
-            "longitude": "2.3967505",
-            "openstreetmap_id": "3220343697",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8602540",
-            "longitude": "2.3934100",
-            "openstreetmap_id": "2663272254",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8614820",
-            "longitude": "2.3946980",
-            "openstreetmap_id": "2636802288",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8609620",
-            "longitude": "2.3968630",
-            "openstreetmap_id": "2765555522",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8628940",
-            "longitude": "2.3934100",
-            "openstreetmap_id": "2647533741",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8631335",
-            "longitude": "2.3933669",
-            "openstreetmap_id": "312059802",
-            "type": "way"
-        },
-        {
-            "latitude": "48.8611410",
-            "longitude": "2.3949350",
-            "openstreetmap_id": "1915793657",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8589100",
-            "longitude": "2.3968930",
-            "openstreetmap_id": "2767821688",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8604380",
-            "longitude": "2.3930240",
-            "openstreetmap_id": "2663238386",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8601380",
-            "longitude": "2.4000450",
-            "openstreetmap_id": "2707989157",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8606350",
-            "longitude": "2.3935820",
-            "openstreetmap_id": "2663278344",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8604230",
-            "longitude": "2.3929170",
-            "openstreetmap_id": "2663253477",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8613270",
-            "longitude": "2.3953840",
-            "openstreetmap_id": "2636798252",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8595280",
-            "longitude": "2.3972980",
-            "openstreetmap_id": "2707975863",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8640090",
-            "longitude": "2.3946760",
-            "openstreetmap_id": "2610749877",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8623244",
-            "longitude": "2.3917870",
-            "openstreetmap_id": "1915793654",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8617790",
-            "longitude": "2.3912860",
-            "openstreetmap_id": "2647668766",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8612140",
-            "longitude": "2.3960710",
-            "openstreetmap_id": "2636792813",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8585366",
-            "longitude": "2.3952915",
-            "openstreetmap_id": "3201523917",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8590400",
-            "longitude": "2.3960920",
-            "openstreetmap_id": "2674711259",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8606210",
-            "longitude": "2.3980880",
-            "openstreetmap_id": "2628667096",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8597030",
-            "longitude": "2.3956510",
-            "openstreetmap_id": "2697001984",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8605360",
-            "longitude": "2.3924230",
-            "openstreetmap_id": "2663064041",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607200",
-            "longitude": "2.3892260",
-            "openstreetmap_id": "2649513478",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8597740",
-            "longitude": "2.3955130",
-            "openstreetmap_id": "2674645790",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8606350",
-            "longitude": "2.3928090",
-            "openstreetmap_id": "2663248136",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8581960",
-            "longitude": "2.3952270",
-            "openstreetmap_id": "2697001968",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8599157",
-            "longitude": "2.3998601",
-            "openstreetmap_id": "2628700824",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8624140",
-            "longitude": "2.3921230",
-            "openstreetmap_id": "2647618163",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8592520",
-            "longitude": "2.3964570",
-            "openstreetmap_id": "2661227175",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8588420",
-            "longitude": "2.3962640",
-            "openstreetmap_id": "2674665708",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8615530",
-            "longitude": "2.3925730",
-            "openstreetmap_id": "2647611429",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8605580",
-            "longitude": "2.3925470",
-            "openstreetmap_id": "2697001969",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8587457",
-            "longitude": "2.3966952",
-            "openstreetmap_id": "2707975860",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8611150",
-            "longitude": "2.3943540",
-            "openstreetmap_id": "2649590704",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8599858",
-            "longitude": "2.3940879",
-            "openstreetmap_id": "1915793662",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8590680",
-            "longitude": "2.3951480",
-            "openstreetmap_id": "2672737600",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8619200",
-            "longitude": "2.3982600",
-            "openstreetmap_id": "2610835772",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8591120",
-            "longitude": "2.3946450",
-            "openstreetmap_id": "2697001982",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8601705",
-            "longitude": "2.3927894",
-            "openstreetmap_id": "2663264334",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8601213",
-            "longitude": "2.3928080",
-            "openstreetmap_id": "1915793639",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8596730",
-            "longitude": "2.3927980",
-            "openstreetmap_id": "2697001972",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8605790",
-            "longitude": "2.3905780",
-            "openstreetmap_id": "2649545062",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8597855",
-            "longitude": "2.3942322",
-            "openstreetmap_id": "1915793627",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8590960",
-            "longitude": "2.3954700",
-            "openstreetmap_id": "2672739322",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8600580",
-            "longitude": "2.4001130",
-            "openstreetmap_id": "2707989158",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8593930",
-            "longitude": "2.3981520",
-            "openstreetmap_id": "2628742111",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8613050",
-            "longitude": "2.3968980",
-            "openstreetmap_id": "2765555539",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8609030",
-            "longitude": "2.3946120",
-            "openstreetmap_id": "2649582567",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8603950",
-            "longitude": "2.3968860",
-            "openstreetmap_id": "2636786218",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8623290",
-            "longitude": "2.3973160",
-            "openstreetmap_id": "2610815702",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607223",
-            "longitude": "2.3916025",
-            "openstreetmap_id": "2649521612",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8623570",
-            "longitude": "2.3934100",
-            "openstreetmap_id": "2647558151",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8599553",
-            "longitude": "2.3920732",
-            "openstreetmap_id": "1915793655",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8590510",
-            "longitude": "2.3971380",
-            "openstreetmap_id": "2707975862",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8627670",
-            "longitude": "2.3962430",
-            "openstreetmap_id": "2611013418",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8602260",
-            "longitude": "2.3999570",
-            "openstreetmap_id": "2707989159",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8635010",
-            "longitude": "2.3912640",
-            "openstreetmap_id": "2647629281",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8597115",
-            "longitude": "2.3945144",
-            "openstreetmap_id": "2707952437",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8601980",
-            "longitude": "2.3952770",
-            "openstreetmap_id": "2663325709",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8611655",
-            "longitude": "2.3949235",
-            "openstreetmap_id": "2636809035",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8608750",
-            "longitude": "2.3946980",
-            "openstreetmap_id": "2649584809",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8613550",
-            "longitude": "2.3923590",
-            "openstreetmap_id": "2647652534",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8589314",
-            "longitude": "2.3964384",
-            "openstreetmap_id": "2674657654",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8611260",
-            "longitude": "2.3963200",
-            "openstreetmap_id": "2765555528",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8597415",
-            "longitude": "2.3943819",
-            "openstreetmap_id": "2728421146",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8627870",
-            "longitude": "2.3936382",
-            "openstreetmap_id": "1915793636",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8615250",
-            "longitude": "2.3925090",
-            "openstreetmap_id": "2647610304",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8600560",
-            "longitude": "2.3928090",
-            "openstreetmap_id": "2663070197",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8588990",
-            "longitude": "2.3963070",
-            "openstreetmap_id": "2674739418",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8614040",
-            "longitude": "2.3952430",
-            "openstreetmap_id": "2697001977",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8584645",
-            "longitude": "2.3952683",
-            "openstreetmap_id": "3201698525",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8598870",
-            "longitude": "2.3998260",
-            "openstreetmap_id": "2628701846",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8624253",
-            "longitude": "2.3954178",
-            "openstreetmap_id": "1915793660",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8588850",
-            "longitude": "2.3968010",
-            "openstreetmap_id": "2661279723",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8599860",
-            "longitude": "2.3999120",
-            "openstreetmap_id": "2628698194",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8622020",
-            "longitude": "2.3918220",
-            "openstreetmap_id": "2647644925",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8622181",
-            "longitude": "2.3963152",
-            "openstreetmap_id": "1915793684",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8596730",
-            "longitude": "2.3944650",
-            "openstreetmap_id": "2728336401",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8597030",
-            "longitude": "2.3996110",
-            "openstreetmap_id": "2628703942",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8608750",
-            "longitude": "2.3921870",
-            "openstreetmap_id": "2649537764",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607340",
-            "longitude": "2.3916510",
-            "openstreetmap_id": "2649522565",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8586723",
-            "longitude": "2.3951535",
-            "openstreetmap_id": "3198462544",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8617058",
-            "longitude": "2.3884516",
-            "openstreetmap_id": "2728251815",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8594012",
-            "longitude": "2.3990533",
-            "openstreetmap_id": "2707989160",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8587580",
-            "longitude": "2.3962000",
-            "openstreetmap_id": "2661275349",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8600462",
-            "longitude": "2.3938832",
-            "openstreetmap_id": "1915793661",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8590960",
-            "longitude": "2.3955770",
-            "openstreetmap_id": "2672746767",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8597319",
-            "longitude": "2.3936651",
-            "openstreetmap_id": "1915793625",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8615530",
-            "longitude": "2.3981050",
-            "openstreetmap_id": "2728336402",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8615073",
-            "longitude": "2.3918887",
-            "openstreetmap_id": "2728217032",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8594630",
-            "longitude": "2.3950620",
-            "openstreetmap_id": "2672677620",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8604800",
-            "longitude": "2.3943760",
-            "openstreetmap_id": "2663334649",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8606490",
-            "longitude": "2.3946550",
-            "openstreetmap_id": "2663328243",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8595200",
-            "longitude": "2.3949980",
-            "openstreetmap_id": "2672718054",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8609600",
-            "longitude": "2.3928310",
-            "openstreetmap_id": "2649571368",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8602820",
-            "longitude": "2.3969940",
-            "openstreetmap_id": "2636786649",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8620890",
-            "longitude": "2.3935600",
-            "openstreetmap_id": "2647591862",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8588000",
-            "longitude": "2.3963500",
-            "openstreetmap_id": "2661273250",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8605360",
-            "longitude": "2.3986240",
-            "openstreetmap_id": "2628673749",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8587570",
-            "longitude": "2.3965220",
-            "openstreetmap_id": "2707952444",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8585550",
-            "longitude": "2.3961900",
-            "openstreetmap_id": "2707952440",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8608330",
-            "longitude": "2.3978950",
-            "openstreetmap_id": "2628659819",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8621740",
-            "longitude": "2.3956630",
-            "openstreetmap_id": "2611019171",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8605360",
-            "longitude": "2.3954060",
-            "openstreetmap_id": "2636915286",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8611069",
-            "longitude": "2.3916616",
-            "openstreetmap_id": "2728217035",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8625410",
-            "longitude": "2.3953840",
-            "openstreetmap_id": "2611016394",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8594630",
-            "longitude": "2.3949550",
-            "openstreetmap_id": "2672703663",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8605360",
-            "longitude": "2.3942900",
-            "openstreetmap_id": "2672673026",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607480",
-            "longitude": "2.3911790",
-            "openstreetmap_id": "2649538218",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8631340",
-            "longitude": "2.3951910",
-            "openstreetmap_id": "2610756342",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8591916",
-            "longitude": "2.3918972",
-            "openstreetmap_id": "4214999",
-            "type": "relation"
-        },
-        {
-            "latitude": "48.8610590",
-            "longitude": "2.3953630",
-            "openstreetmap_id": "2636910105",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8585740",
-            "longitude": "2.3948400",
-            "openstreetmap_id": "2707952441",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8608890",
-            "longitude": "2.3922300",
-            "openstreetmap_id": "2649548127",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8616660",
-            "longitude": "2.3945260",
-            "openstreetmap_id": "2636806656",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8598300",
-            "longitude": "2.3954060",
-            "openstreetmap_id": "2663346214",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8593520",
-            "longitude": "2.3939080",
-            "openstreetmap_id": "2697001987",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8614120",
-            "longitude": "2.3943330",
-            "openstreetmap_id": "2649576067",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8585032",
-            "longitude": "2.3954149",
-            "openstreetmap_id": "2707952421",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8602260",
-            "longitude": "2.3982600",
-            "openstreetmap_id": "2636788643",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8630490",
-            "longitude": "2.3970150",
-            "openstreetmap_id": "2610764311",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8623225",
-            "longitude": "2.3943663",
-            "openstreetmap_id": "300549334",
-            "type": "way"
-        },
-        {
-            "latitude": "48.8597740",
-            "longitude": "2.3945690",
-            "openstreetmap_id": "2663293469",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8613527",
-            "longitude": "2.3946884",
-            "openstreetmap_id": "2649578701",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8594170",
-            "longitude": "2.3990380",
-            "openstreetmap_id": "2707989161",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8628120",
-            "longitude": "2.3929370",
-            "openstreetmap_id": "2765555544",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8605650",
-            "longitude": "2.3950620",
-            "openstreetmap_id": "2661217171",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8618534",
-            "longitude": "2.3934719",
-            "openstreetmap_id": "2765555563",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8629220",
-            "longitude": "2.3974440",
-            "openstreetmap_id": "2610813547",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8606490",
-            "longitude": "2.3953200",
-            "openstreetmap_id": "2636914748",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8593650",
-            "longitude": "2.3914790",
-            "openstreetmap_id": "2663047981",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8591810",
-            "longitude": "2.3935600",
-            "openstreetmap_id": "2661300067",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607060",
-            "longitude": "2.3915650",
-            "openstreetmap_id": "2649521135",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8590400",
-            "longitude": "2.3965860",
-            "openstreetmap_id": "2674662092",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8620438",
-            "longitude": "2.3943119",
-            "openstreetmap_id": "2697001971",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8611450",
-            "longitude": "2.3938920",
-            "openstreetmap_id": "2697001967",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8588033",
-            "longitude": "2.3945025",
-            "openstreetmap_id": "1915793642",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8587290",
-            "longitude": "2.3935170",
-            "openstreetmap_id": "2661295342",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8586237",
-            "longitude": "2.3963910",
-            "openstreetmap_id": "2707952445",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8597180",
-            "longitude": "2.3947830",
-            "openstreetmap_id": "2672732737",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8608790",
-            "longitude": "2.3933140",
-            "openstreetmap_id": "2697001979",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8597460",
-            "longitude": "2.3996760",
-            "openstreetmap_id": "2628703851",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8614690",
-            "longitude": "2.3970200",
-            "openstreetmap_id": "2765555547",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8590120",
-            "longitude": "2.3965860",
-            "openstreetmap_id": "2674654592",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8633310",
-            "longitude": "2.3906640",
-            "openstreetmap_id": "2647640675",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8622870",
-            "longitude": "2.3931960",
-            "openstreetmap_id": "2647605835",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8622160",
-            "longitude": "2.3940110",
-            "openstreetmap_id": "3950134906",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8625690",
-            "longitude": "2.3930450",
-            "openstreetmap_id": "2647601121",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8629618",
-            "longitude": "2.3902204",
-            "openstreetmap_id": "2728251813",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8598029",
-            "longitude": "2.3985154",
-            "openstreetmap_id": "1915793626",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8605360",
-            "longitude": "2.3951050",
-            "openstreetmap_id": "2661217314",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8587444",
-            "longitude": "2.3947978",
-            "openstreetmap_id": "3198702233",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8612420",
-            "longitude": "2.3984100",
-            "openstreetmap_id": "2611062155",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8602120",
-            "longitude": "2.3936030",
-            "openstreetmap_id": "2663284611",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8618920",
-            "longitude": "2.3955350",
-            "openstreetmap_id": "2636826745",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8609064",
-            "longitude": "2.3919064",
-            "openstreetmap_id": "311412497",
-            "type": "way"
-        },
-        {
-            "latitude": "48.8627153",
-            "longitude": "2.3927321",
-            "openstreetmap_id": "2618160979",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8592676",
-            "longitude": "2.3937520",
-            "openstreetmap_id": "1915793663",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8626560",
-            "longitude": "2.3977050",
-            "openstreetmap_id": "2752949085",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8631279",
-            "longitude": "2.3912635",
-            "openstreetmap_id": "1915599876",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8611570",
-            "longitude": "2.3952770",
-            "openstreetmap_id": "2636903827",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8590680",
-            "longitude": "2.3966720",
-            "openstreetmap_id": "2661230415",
-            "type": "node"
-        },
-        {
             "latitude": "48.8597013",
             "longitude": "2.4000175",
             "openstreetmap_id": "1152422864",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607200",
-            "longitude": "2.3911140",
-            "openstreetmap_id": "2649540770",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8589830",
-            "longitude": "2.3970370",
-            "openstreetmap_id": "2636930182",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8602980",
-            "longitude": "2.3998350",
-            "openstreetmap_id": "2707989162",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8627390",
-            "longitude": "2.3931740",
-            "openstreetmap_id": "2647545902",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8587720",
-            "longitude": "2.3960710",
-            "openstreetmap_id": "2672740946",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8590400",
-            "longitude": "2.3957060",
-            "openstreetmap_id": "2674700627",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8595920",
-            "longitude": "2.3973830",
-            "openstreetmap_id": "2707975865",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8620890",
-            "longitude": "2.3973800",
-            "openstreetmap_id": "2610818875",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8608190",
-            "longitude": "2.3965430",
-            "openstreetmap_id": "2610995399",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8596890",
-            "longitude": "2.3960710",
-            "openstreetmap_id": "2661255940",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8625690",
-            "longitude": "2.3953630",
-            "openstreetmap_id": "2611015834",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8580380",
-            "longitude": "2.3955560",
-            "openstreetmap_id": "2661284154",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8604800",
-            "longitude": "2.3994180",
-            "openstreetmap_id": "2628681072",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8593664",
-            "longitude": "2.3947165",
-            "openstreetmap_id": "2707952434",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8583882",
-            "longitude": "2.3956719",
-            "openstreetmap_id": "314136876",
-            "type": "way"
-        },
-        {
-            "latitude": "48.8601410",
-            "longitude": "2.3954920",
-            "openstreetmap_id": "2661221799",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8600225",
-            "longitude": "2.3936303",
-            "openstreetmap_id": "470258150",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8596270",
-            "longitude": "2.3943920",
-            "openstreetmap_id": "2707952436",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8600560",
-            "longitude": "2.3928740",
-            "openstreetmap_id": "2663261502",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8592830",
-            "longitude": "2.3947420",
-            "openstreetmap_id": "2707952430",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8596833",
-            "longitude": "2.3988939",
-            "openstreetmap_id": "1915793634",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8595760",
-            "longitude": "2.3988820",
-            "openstreetmap_id": "2628712746",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8591071",
-            "longitude": "2.3914902",
-            "openstreetmap_id": "1915793628",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607600",
-            "longitude": "2.3938000",
-            "openstreetmap_id": "2697001985",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8618070",
-            "longitude": "2.3951910",
-            "openstreetmap_id": "2636824054",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8605080",
-            "longitude": "2.3931310",
-            "openstreetmap_id": "2663076376",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8592570",
-            "longitude": "2.3974000",
-            "openstreetmap_id": "2707975864",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8584981",
-            "longitude": "2.3952292",
-            "openstreetmap_id": "3201523918",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8631900",
-            "longitude": "2.3959850",
-            "openstreetmap_id": "2610732003",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8587580",
-            "longitude": "2.3930880",
-            "openstreetmap_id": "2661299096",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8616640",
-            "longitude": "2.3912770",
-            "openstreetmap_id": "2728251814",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607900",
-            "longitude": "2.3942040",
-            "openstreetmap_id": "2649587194",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8630712",
-            "longitude": "2.3949750",
-            "openstreetmap_id": "1915793682",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8595620",
-            "longitude": "2.3911140",
-            "openstreetmap_id": "2663014267",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8636050",
-            "longitude": "2.3964430",
-            "openstreetmap_id": "2697001981",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8630280",
-            "longitude": "2.3949170",
-            "openstreetmap_id": "3164473407",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8601410",
-            "longitude": "2.3939040",
-            "openstreetmap_id": "2663285709",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8610650",
-            "longitude": "2.3934180",
-            "openstreetmap_id": "2697001988",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8594350",
-            "longitude": "2.3923590",
-            "openstreetmap_id": "2661305216",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8593220",
-            "longitude": "2.3914790",
-            "openstreetmap_id": "2663040532",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8601130",
-            "longitude": "2.3904280",
-            "openstreetmap_id": "2649516984",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607060",
-            "longitude": "2.3910500",
-            "openstreetmap_id": "2649542252",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8593510",
-            "longitude": "2.3912860",
-            "openstreetmap_id": "2661325764",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8596890",
-            "longitude": "2.3956420",
-            "openstreetmap_id": "2674649194",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8589830",
-            "longitude": "2.3966720",
-            "openstreetmap_id": "2661277628",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8596330",
-            "longitude": "2.3988390",
-            "openstreetmap_id": "2628713048",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8585780",
-            "longitude": "2.3963770",
-            "openstreetmap_id": "2707975861",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8614120",
-            "longitude": "2.3939470",
-            "openstreetmap_id": "2649568041",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8593650",
-            "longitude": "2.3971870",
-            "openstreetmap_id": "2636925573",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8623521",
-            "longitude": "2.3905310",
-            "openstreetmap_id": "1915793656",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8614688",
-            "longitude": "2.3925529",
-            "openstreetmap_id": "2766437732",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8585320",
-            "longitude": "2.3955990",
-            "openstreetmap_id": "2663312801",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8590400",
-            "longitude": "2.3917370",
-            "openstreetmap_id": "2663032295",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8604520",
-            "longitude": "2.3925520",
-            "openstreetmap_id": "2663065605",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8628596",
-            "longitude": "2.3928690",
-            "openstreetmap_id": "2765555534",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8628360",
-            "longitude": "2.3931780",
-            "openstreetmap_id": "2765555559",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8607900",
-            "longitude": "2.3993750",
-            "openstreetmap_id": "2628678445",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8595742",
-            "longitude": "2.3949400",
-            "openstreetmap_id": "267099784",
-            "type": "way"
-        },
-        {
-            "latitude": "48.8593510",
-            "longitude": "2.3969290",
-            "openstreetmap_id": "2661232516",
-            "type": "node"
-        },
-        {
-            "latitude": "48.8612866",
-            "longitude": "2.3948323",
-            "openstreetmap_id": "3569710293",
             "type": "node"
         },
         {
@@ -1452,105 +18,141 @@
             "type": "way"
         },
         {
-            "latitude": "48.8599430",
-            "longitude": "2.3998900",
-            "openstreetmap_id": "2628699258",
+            "latitude": "48.8631279",
+            "longitude": "2.3912635",
+            "openstreetmap_id": "1915599876",
             "type": "node"
         },
         {
-            "latitude": "48.8605280",
-            "longitude": "2.3969170",
-            "openstreetmap_id": "3294792195",
+            "latitude": "48.8597319",
+            "longitude": "2.3936651",
+            "openstreetmap_id": "1915793625",
             "type": "node"
         },
         {
-            "latitude": "48.8597030",
-            "longitude": "2.3952980",
-            "openstreetmap_id": "2663348467",
+            "latitude": "48.8598029",
+            "longitude": "2.3985154",
+            "openstreetmap_id": "1915793626",
             "type": "node"
         },
         {
-            "latitude": "48.8590260",
-            "longitude": "2.3954920",
-            "openstreetmap_id": "2672744457",
+            "latitude": "48.8597855",
+            "longitude": "2.3942322",
+            "openstreetmap_id": "1915793627",
             "type": "node"
         },
         {
-            "latitude": "48.8615364",
-            "longitude": "2.3918726",
-            "openstreetmap_id": "2728217037",
+            "latitude": "48.8591071",
+            "longitude": "2.3914902",
+            "openstreetmap_id": "1915793628",
             "type": "node"
         },
         {
-            "latitude": "48.8612140",
-            "longitude": "2.3948910",
-            "openstreetmap_id": "2636809297",
+            "latitude": "48.8596833",
+            "longitude": "2.3988939",
+            "openstreetmap_id": "1915793634",
             "type": "node"
         },
         {
-            "latitude": "48.8584651",
-            "longitude": "2.3953018",
-            "openstreetmap_id": "2707952423",
+            "latitude": "48.8627870",
+            "longitude": "2.3936382",
+            "openstreetmap_id": "1915793636",
             "type": "node"
         },
         {
-            "latitude": "48.8611860",
-            "longitude": "2.3949120",
-            "openstreetmap_id": "2636809415",
+            "latitude": "48.8601213",
+            "longitude": "2.3928080",
+            "openstreetmap_id": "1915793639",
             "type": "node"
         },
         {
-            "latitude": "48.8611290",
-            "longitude": "2.3953200",
-            "openstreetmap_id": "2636855002",
+            "latitude": "48.8588033",
+            "longitude": "2.3945025",
+            "openstreetmap_id": "1915793642",
             "type": "node"
         },
         {
-            "latitude": "48.8601410",
-            "longitude": "2.3998690",
-            "openstreetmap_id": "2628694965",
+            "latitude": "48.8623244",
+            "longitude": "2.3917870",
+            "openstreetmap_id": "1915793654",
             "type": "node"
         },
         {
-            "latitude": "48.8622870",
-            "longitude": "2.3903420",
-            "openstreetmap_id": "2647664510",
+            "latitude": "48.8599553",
+            "longitude": "2.3920732",
+            "openstreetmap_id": "1915793655",
             "type": "node"
         },
         {
-            "latitude": "48.8584840",
-            "longitude": "2.3952396",
-            "openstreetmap_id": "2707952439",
+            "latitude": "48.8623521",
+            "longitude": "2.3905310",
+            "openstreetmap_id": "1915793656",
             "type": "node"
         },
         {
-            "latitude": "48.8601070",
-            "longitude": "2.3930030",
-            "openstreetmap_id": "2697001975",
+            "latitude": "48.8611410",
+            "longitude": "2.3949350",
+            "openstreetmap_id": "1915793657",
             "type": "node"
         },
         {
-            "latitude": "48.8599400",
-            "longitude": "2.3929300",
-            "openstreetmap_id": "2696996999",
+            "latitude": "48.8626557",
+            "longitude": "2.3947199",
+            "openstreetmap_id": "1915793658",
             "type": "node"
         },
         {
-            "latitude": "48.8636700",
-            "longitude": "2.3961570",
-            "openstreetmap_id": "2610721232",
+            "latitude": "48.8627718",
+            "longitude": "2.3931199",
+            "openstreetmap_id": "1915793659",
             "type": "node"
         },
         {
-            "latitude": "48.8590840",
-            "longitude": "2.3937260",
-            "openstreetmap_id": "3167890810",
+            "latitude": "48.8624253",
+            "longitude": "2.3954178",
+            "openstreetmap_id": "1915793660",
             "type": "node"
         },
         {
-            "latitude": "48.8606490",
-            "longitude": "2.3908780",
-            "openstreetmap_id": "2649543430",
+            "latitude": "48.8600462",
+            "longitude": "2.3938832",
+            "openstreetmap_id": "1915793661",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8599858",
+            "longitude": "2.3940879",
+            "openstreetmap_id": "1915793662",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8592676",
+            "longitude": "2.3937520",
+            "openstreetmap_id": "1915793663",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8630712",
+            "longitude": "2.3949750",
+            "openstreetmap_id": "1915793682",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8622181",
+            "longitude": "2.3963152",
+            "openstreetmap_id": "1915793684",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8597856",
+            "longitude": "2.3928042",
+            "openstreetmap_id": "1915793687",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8618038",
+            "longitude": "2.3979473",
+            "openstreetmap_id": "1915793689",
             "type": "node"
         },
         {
@@ -1560,9 +162,1287 @@
             "type": "node"
         },
         {
-            "latitude": "48.8603710",
-            "longitude": "2.3963320",
-            "openstreetmap_id": "2766193914",
+            "latitude": "48.8636700",
+            "longitude": "2.3961570",
+            "openstreetmap_id": "2610721232",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8631900",
+            "longitude": "2.3959850",
+            "openstreetmap_id": "2610732003",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8640090",
+            "longitude": "2.3946760",
+            "openstreetmap_id": "2610749877",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8631340",
+            "longitude": "2.3951910",
+            "openstreetmap_id": "2610756342",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8630490",
+            "longitude": "2.3970150",
+            "openstreetmap_id": "2610764311",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8629220",
+            "longitude": "2.3974440",
+            "openstreetmap_id": "2610813547",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8623290",
+            "longitude": "2.3973160",
+            "openstreetmap_id": "2610815702",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8620890",
+            "longitude": "2.3973800",
+            "openstreetmap_id": "2610818875",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8619200",
+            "longitude": "2.3982600",
+            "openstreetmap_id": "2610835772",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8608190",
+            "longitude": "2.3965430",
+            "openstreetmap_id": "2610995399",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8621460",
+            "longitude": "2.3960710",
+            "openstreetmap_id": "2611008485",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8627670",
+            "longitude": "2.3962430",
+            "openstreetmap_id": "2611013418",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8625690",
+            "longitude": "2.3953630",
+            "openstreetmap_id": "2611015834",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8625410",
+            "longitude": "2.3953840",
+            "openstreetmap_id": "2611016394",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8621740",
+            "longitude": "2.3956630",
+            "openstreetmap_id": "2611019171",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8612420",
+            "longitude": "2.3984100",
+            "openstreetmap_id": "2611062155",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8627153",
+            "longitude": "2.3927321",
+            "openstreetmap_id": "2618160979",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8608330",
+            "longitude": "2.3978950",
+            "openstreetmap_id": "2628659819",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8606210",
+            "longitude": "2.3980880",
+            "openstreetmap_id": "2628667096",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8605360",
+            "longitude": "2.3986240",
+            "openstreetmap_id": "2628673749",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607900",
+            "longitude": "2.3993750",
+            "openstreetmap_id": "2628678445",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8604800",
+            "longitude": "2.3994180",
+            "openstreetmap_id": "2628681072",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8610160",
+            "longitude": "2.3990960",
+            "openstreetmap_id": "2628689416",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8601410",
+            "longitude": "2.3998690",
+            "openstreetmap_id": "2628694965",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8599860",
+            "longitude": "2.3999120",
+            "openstreetmap_id": "2628698194",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8599430",
+            "longitude": "2.3998900",
+            "openstreetmap_id": "2628699258",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8599157",
+            "longitude": "2.3998601",
+            "openstreetmap_id": "2628700824",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8598870",
+            "longitude": "2.3998260",
+            "openstreetmap_id": "2628701846",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8597460",
+            "longitude": "2.3996760",
+            "openstreetmap_id": "2628703851",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8597030",
+            "longitude": "2.3996110",
+            "openstreetmap_id": "2628703942",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8595760",
+            "longitude": "2.3988820",
+            "openstreetmap_id": "2628712746",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8596330",
+            "longitude": "2.3988390",
+            "openstreetmap_id": "2628713048",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8593930",
+            "longitude": "2.3981520",
+            "openstreetmap_id": "2628742111",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8601690",
+            "longitude": "2.3998480",
+            "openstreetmap_id": "2628752275",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8603950",
+            "longitude": "2.3968860",
+            "openstreetmap_id": "2636786218",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8602820",
+            "longitude": "2.3969940",
+            "openstreetmap_id": "2636786649",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8602260",
+            "longitude": "2.3982600",
+            "openstreetmap_id": "2636788643",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8612140",
+            "longitude": "2.3960710",
+            "openstreetmap_id": "2636792813",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8613270",
+            "longitude": "2.3953840",
+            "openstreetmap_id": "2636798252",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8614820",
+            "longitude": "2.3946980",
+            "openstreetmap_id": "2636802288",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8616660",
+            "longitude": "2.3945260",
+            "openstreetmap_id": "2636806656",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8611655",
+            "longitude": "2.3949235",
+            "openstreetmap_id": "2636809035",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8612140",
+            "longitude": "2.3948910",
+            "openstreetmap_id": "2636809297",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8611860",
+            "longitude": "2.3949120",
+            "openstreetmap_id": "2636809415",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8618070",
+            "longitude": "2.3951910",
+            "openstreetmap_id": "2636824054",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8618920",
+            "longitude": "2.3955350",
+            "openstreetmap_id": "2636826745",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8611290",
+            "longitude": "2.3953200",
+            "openstreetmap_id": "2636855002",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8611570",
+            "longitude": "2.3952770",
+            "openstreetmap_id": "2636903827",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8610590",
+            "longitude": "2.3953630",
+            "openstreetmap_id": "2636910105",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8606490",
+            "longitude": "2.3953200",
+            "openstreetmap_id": "2636914748",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8605360",
+            "longitude": "2.3954060",
+            "openstreetmap_id": "2636915286",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8593650",
+            "longitude": "2.3971870",
+            "openstreetmap_id": "2636925573",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8589830",
+            "longitude": "2.3970370",
+            "openstreetmap_id": "2636930182",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8628940",
+            "longitude": "2.3934100",
+            "openstreetmap_id": "2647533741",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8627390",
+            "longitude": "2.3931740",
+            "openstreetmap_id": "2647545902",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8623570",
+            "longitude": "2.3934100",
+            "openstreetmap_id": "2647558151",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8620890",
+            "longitude": "2.3935600",
+            "openstreetmap_id": "2647591862",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8625690",
+            "longitude": "2.3930450",
+            "openstreetmap_id": "2647601121",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8622870",
+            "longitude": "2.3931960",
+            "openstreetmap_id": "2647605835",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8615250",
+            "longitude": "2.3925090",
+            "openstreetmap_id": "2647610304",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8615530",
+            "longitude": "2.3925730",
+            "openstreetmap_id": "2647611429",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8624140",
+            "longitude": "2.3921230",
+            "openstreetmap_id": "2647618163",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8635010",
+            "longitude": "2.3912640",
+            "openstreetmap_id": "2647629281",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8633310",
+            "longitude": "2.3906640",
+            "openstreetmap_id": "2647640675",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8622020",
+            "longitude": "2.3918220",
+            "openstreetmap_id": "2647644925",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8613550",
+            "longitude": "2.3923590",
+            "openstreetmap_id": "2647652534",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8616940",
+            "longitude": "2.3901270",
+            "openstreetmap_id": "2647658051",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8622870",
+            "longitude": "2.3903420",
+            "openstreetmap_id": "2647664510",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8617790",
+            "longitude": "2.3912860",
+            "openstreetmap_id": "2647668766",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607200",
+            "longitude": "2.3892260",
+            "openstreetmap_id": "2649513478",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8601130",
+            "longitude": "2.3904280",
+            "openstreetmap_id": "2649516984",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8605360",
+            "longitude": "2.3911140",
+            "openstreetmap_id": "2649520651",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607060",
+            "longitude": "2.3915650",
+            "openstreetmap_id": "2649521135",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607223",
+            "longitude": "2.3916025",
+            "openstreetmap_id": "2649521612",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607340",
+            "longitude": "2.3916510",
+            "openstreetmap_id": "2649522565",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8608750",
+            "longitude": "2.3921870",
+            "openstreetmap_id": "2649537764",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607480",
+            "longitude": "2.3911790",
+            "openstreetmap_id": "2649538218",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607200",
+            "longitude": "2.3911140",
+            "openstreetmap_id": "2649540770",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607060",
+            "longitude": "2.3910500",
+            "openstreetmap_id": "2649542252",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8606490",
+            "longitude": "2.3908780",
+            "openstreetmap_id": "2649543430",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8605790",
+            "longitude": "2.3905780",
+            "openstreetmap_id": "2649545062",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8608890",
+            "longitude": "2.3922300",
+            "openstreetmap_id": "2649548127",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8614120",
+            "longitude": "2.3939470",
+            "openstreetmap_id": "2649568041",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8609600",
+            "longitude": "2.3928310",
+            "openstreetmap_id": "2649571368",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8614120",
+            "longitude": "2.3943330",
+            "openstreetmap_id": "2649576067",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8613527",
+            "longitude": "2.3946884",
+            "openstreetmap_id": "2649578701",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8609030",
+            "longitude": "2.3946120",
+            "openstreetmap_id": "2649582567",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8608750",
+            "longitude": "2.3946980",
+            "openstreetmap_id": "2649584809",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607900",
+            "longitude": "2.3942040",
+            "openstreetmap_id": "2649587194",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8611150",
+            "longitude": "2.3943540",
+            "openstreetmap_id": "2649590704",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607200",
+            "longitude": "2.3949340",
+            "openstreetmap_id": "2649596674",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8605650",
+            "longitude": "2.3950620",
+            "openstreetmap_id": "2661217171",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8605360",
+            "longitude": "2.3951050",
+            "openstreetmap_id": "2661217314",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8601410",
+            "longitude": "2.3954920",
+            "openstreetmap_id": "2661221799",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8592520",
+            "longitude": "2.3964570",
+            "openstreetmap_id": "2661227175",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590680",
+            "longitude": "2.3966720",
+            "openstreetmap_id": "2661230415",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8593510",
+            "longitude": "2.3969290",
+            "openstreetmap_id": "2661232516",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8596890",
+            "longitude": "2.3960710",
+            "openstreetmap_id": "2661255940",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8588000",
+            "longitude": "2.3963500",
+            "openstreetmap_id": "2661273250",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8587580",
+            "longitude": "2.3962000",
+            "openstreetmap_id": "2661275349",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8589830",
+            "longitude": "2.3966720",
+            "openstreetmap_id": "2661277628",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8588850",
+            "longitude": "2.3968010",
+            "openstreetmap_id": "2661279723",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8580380",
+            "longitude": "2.3955560",
+            "openstreetmap_id": "2661284154",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8587290",
+            "longitude": "2.3935170",
+            "openstreetmap_id": "2661295342",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8587580",
+            "longitude": "2.3930880",
+            "openstreetmap_id": "2661299096",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8591810",
+            "longitude": "2.3935600",
+            "openstreetmap_id": "2661300067",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8594350",
+            "longitude": "2.3923590",
+            "openstreetmap_id": "2661305216",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8593510",
+            "longitude": "2.3912860",
+            "openstreetmap_id": "2661325764",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8595620",
+            "longitude": "2.3911140",
+            "openstreetmap_id": "2663014267",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590400",
+            "longitude": "2.3917370",
+            "openstreetmap_id": "2663032295",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8593220",
+            "longitude": "2.3914790",
+            "openstreetmap_id": "2663040532",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8593650",
+            "longitude": "2.3914790",
+            "openstreetmap_id": "2663047981",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607620",
+            "longitude": "2.3921660",
+            "openstreetmap_id": "2663061680",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8605360",
+            "longitude": "2.3924230",
+            "openstreetmap_id": "2663064041",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8604520",
+            "longitude": "2.3925520",
+            "openstreetmap_id": "2663065605",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8600560",
+            "longitude": "2.3928090",
+            "openstreetmap_id": "2663070197",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8605080",
+            "longitude": "2.3931310",
+            "openstreetmap_id": "2663076376",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8604380",
+            "longitude": "2.3930240",
+            "openstreetmap_id": "2663238386",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8606350",
+            "longitude": "2.3928090",
+            "openstreetmap_id": "2663248136",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8604230",
+            "longitude": "2.3929170",
+            "openstreetmap_id": "2663253477",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8600560",
+            "longitude": "2.3928740",
+            "openstreetmap_id": "2663261502",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8601705",
+            "longitude": "2.3927894",
+            "openstreetmap_id": "2663264334",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8602540",
+            "longitude": "2.3934100",
+            "openstreetmap_id": "2663272254",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8606350",
+            "longitude": "2.3935820",
+            "openstreetmap_id": "2663278344",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8602120",
+            "longitude": "2.3936030",
+            "openstreetmap_id": "2663284611",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8601410",
+            "longitude": "2.3939040",
+            "openstreetmap_id": "2663285709",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8597740",
+            "longitude": "2.3945690",
+            "openstreetmap_id": "2663293469",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8585320",
+            "longitude": "2.3955990",
+            "openstreetmap_id": "2663312801",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8601980",
+            "longitude": "2.3952770",
+            "openstreetmap_id": "2663325709",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8606490",
+            "longitude": "2.3946550",
+            "openstreetmap_id": "2663328243",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8604800",
+            "longitude": "2.3943760",
+            "openstreetmap_id": "2663334649",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8598300",
+            "longitude": "2.3954060",
+            "openstreetmap_id": "2663346214",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8597030",
+            "longitude": "2.3952980",
+            "openstreetmap_id": "2663348467",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8595742",
+            "longitude": "2.3949400",
+            "openstreetmap_id": "267099784",
+            "type": "way"
+        },
+        {
+            "latitude": "48.8605360",
+            "longitude": "2.3942900",
+            "openstreetmap_id": "2672673026",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8594630",
+            "longitude": "2.3950620",
+            "openstreetmap_id": "2672677620",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8594630",
+            "longitude": "2.3949550",
+            "openstreetmap_id": "2672703663",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8595200",
+            "longitude": "2.3949980",
+            "openstreetmap_id": "2672718054",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8597180",
+            "longitude": "2.3947830",
+            "openstreetmap_id": "2672732737",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590680",
+            "longitude": "2.3951480",
+            "openstreetmap_id": "2672737600",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590960",
+            "longitude": "2.3954700",
+            "openstreetmap_id": "2672739322",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8587720",
+            "longitude": "2.3960710",
+            "openstreetmap_id": "2672740946",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590260",
+            "longitude": "2.3954920",
+            "openstreetmap_id": "2672744457",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590960",
+            "longitude": "2.3955770",
+            "openstreetmap_id": "2672746767",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8597740",
+            "longitude": "2.3955130",
+            "openstreetmap_id": "2674645790",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8596890",
+            "longitude": "2.3956420",
+            "openstreetmap_id": "2674649194",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590120",
+            "longitude": "2.3965860",
+            "openstreetmap_id": "2674654592",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8589314",
+            "longitude": "2.3964384",
+            "openstreetmap_id": "2674657654",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590400",
+            "longitude": "2.3965860",
+            "openstreetmap_id": "2674662092",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8588420",
+            "longitude": "2.3962640",
+            "openstreetmap_id": "2674665708",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590400",
+            "longitude": "2.3957060",
+            "openstreetmap_id": "2674700627",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8591390",
+            "longitude": "2.3959850",
+            "openstreetmap_id": "2674707235",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590400",
+            "longitude": "2.3960920",
+            "openstreetmap_id": "2674711259",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8591670",
+            "longitude": "2.3962000",
+            "openstreetmap_id": "2674732708",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8588990",
+            "longitude": "2.3963070",
+            "openstreetmap_id": "2674739418",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8599400",
+            "longitude": "2.3929300",
+            "openstreetmap_id": "2696996999",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8611450",
+            "longitude": "2.3938920",
+            "openstreetmap_id": "2697001967",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8581960",
+            "longitude": "2.3952270",
+            "openstreetmap_id": "2697001968",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8605580",
+            "longitude": "2.3925470",
+            "openstreetmap_id": "2697001969",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8620438",
+            "longitude": "2.3943119",
+            "openstreetmap_id": "2697001971",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8596730",
+            "longitude": "2.3927980",
+            "openstreetmap_id": "2697001972",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8610650",
+            "longitude": "2.3949100",
+            "openstreetmap_id": "2697001973",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8601070",
+            "longitude": "2.3930030",
+            "openstreetmap_id": "2697001975",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8611720",
+            "longitude": "2.3939770",
+            "openstreetmap_id": "2697001976",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8614040",
+            "longitude": "2.3952430",
+            "openstreetmap_id": "2697001977",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8608790",
+            "longitude": "2.3933140",
+            "openstreetmap_id": "2697001979",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8636050",
+            "longitude": "2.3964430",
+            "openstreetmap_id": "2697001981",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8591120",
+            "longitude": "2.3946450",
+            "openstreetmap_id": "2697001982",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8597030",
+            "longitude": "2.3956510",
+            "openstreetmap_id": "2697001984",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8607600",
+            "longitude": "2.3938000",
+            "openstreetmap_id": "2697001985",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8593520",
+            "longitude": "2.3939080",
+            "openstreetmap_id": "2697001987",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8610650",
+            "longitude": "2.3934180",
+            "openstreetmap_id": "2697001988",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8585032",
+            "longitude": "2.3954149",
+            "openstreetmap_id": "2707952421",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8584651",
+            "longitude": "2.3953018",
+            "openstreetmap_id": "2707952423",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8583980",
+            "longitude": "2.3953650",
+            "openstreetmap_id": "2707952426",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8592830",
+            "longitude": "2.3947420",
+            "openstreetmap_id": "2707952430",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8593664",
+            "longitude": "2.3947165",
+            "openstreetmap_id": "2707952434",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8596270",
+            "longitude": "2.3943920",
+            "openstreetmap_id": "2707952436",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8597115",
+            "longitude": "2.3945144",
+            "openstreetmap_id": "2707952437",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8584840",
+            "longitude": "2.3952396",
+            "openstreetmap_id": "2707952439",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8585550",
+            "longitude": "2.3961900",
+            "openstreetmap_id": "2707952440",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8585740",
+            "longitude": "2.3948400",
+            "openstreetmap_id": "2707952441",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8587570",
+            "longitude": "2.3965220",
+            "openstreetmap_id": "2707952444",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8586237",
+            "longitude": "2.3963910",
+            "openstreetmap_id": "2707952445",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8587457",
+            "longitude": "2.3966952",
+            "openstreetmap_id": "2707975860",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8585780",
+            "longitude": "2.3963770",
+            "openstreetmap_id": "2707975861",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590510",
+            "longitude": "2.3971380",
+            "openstreetmap_id": "2707975862",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8595280",
+            "longitude": "2.3972980",
+            "openstreetmap_id": "2707975863",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8592570",
+            "longitude": "2.3974000",
+            "openstreetmap_id": "2707975864",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8595920",
+            "longitude": "2.3973830",
+            "openstreetmap_id": "2707975865",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8601380",
+            "longitude": "2.4000450",
+            "openstreetmap_id": "2707989157",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8600580",
+            "longitude": "2.4001130",
+            "openstreetmap_id": "2707989158",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8602260",
+            "longitude": "2.3999570",
+            "openstreetmap_id": "2707989159",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8594012",
+            "longitude": "2.3990533",
+            "openstreetmap_id": "2707989160",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8594170",
+            "longitude": "2.3990380",
+            "openstreetmap_id": "2707989161",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8602980",
+            "longitude": "2.3998350",
+            "openstreetmap_id": "2707989162",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8615073",
+            "longitude": "2.3918887",
+            "openstreetmap_id": "2728217032",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8611069",
+            "longitude": "2.3916616",
+            "openstreetmap_id": "2728217035",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8615364",
+            "longitude": "2.3918726",
+            "openstreetmap_id": "2728217037",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8609848",
+            "longitude": "2.3913417",
+            "openstreetmap_id": "2728217039",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8629618",
+            "longitude": "2.3902204",
+            "openstreetmap_id": "2728251813",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8616640",
+            "longitude": "2.3912770",
+            "openstreetmap_id": "2728251814",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8617058",
+            "longitude": "2.3884516",
+            "openstreetmap_id": "2728251815",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8596730",
+            "longitude": "2.3944650",
+            "openstreetmap_id": "2728336401",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8615530",
+            "longitude": "2.3981050",
+            "openstreetmap_id": "2728336402",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8597415",
+            "longitude": "2.3943819",
+            "openstreetmap_id": "2728421146",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8626560",
+            "longitude": "2.3977050",
+            "openstreetmap_id": "2752949085",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8609620",
+            "longitude": "2.3968630",
+            "openstreetmap_id": "2765555522",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8611260",
+            "longitude": "2.3963200",
+            "openstreetmap_id": "2765555528",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8628596",
+            "longitude": "2.3928690",
+            "openstreetmap_id": "2765555534",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8613050",
+            "longitude": "2.3968980",
+            "openstreetmap_id": "2765555539",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8628120",
+            "longitude": "2.3929370",
+            "openstreetmap_id": "2765555544",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8614690",
+            "longitude": "2.3970200",
+            "openstreetmap_id": "2765555547",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8610990",
+            "longitude": "2.3973950",
+            "openstreetmap_id": "2765555550",
             "type": "node"
         },
         {
@@ -1578,21 +1458,141 @@
             "type": "node"
         },
         {
-            "latitude": "48.8591670",
-            "longitude": "2.3962000",
-            "openstreetmap_id": "2674732708",
+            "latitude": "48.8628360",
+            "longitude": "2.3931780",
+            "openstreetmap_id": "2765555559",
             "type": "node"
         },
         {
-            "latitude": "48.8618038",
-            "longitude": "2.3979473",
-            "openstreetmap_id": "1915793689",
+            "latitude": "48.8618534",
+            "longitude": "2.3934719",
+            "openstreetmap_id": "2765555563",
             "type": "node"
         },
         {
-            "latitude": "48.8621460",
-            "longitude": "2.3960710",
-            "openstreetmap_id": "2611008485",
+            "latitude": "48.8603710",
+            "longitude": "2.3963320",
+            "openstreetmap_id": "2766193914",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8614688",
+            "longitude": "2.3925529",
+            "openstreetmap_id": "2766437732",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8589100",
+            "longitude": "2.3968930",
+            "openstreetmap_id": "2767821688",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8623225",
+            "longitude": "2.3943663",
+            "openstreetmap_id": "300549334",
+            "type": "way"
+        },
+        {
+            "latitude": "48.8609064",
+            "longitude": "2.3919064",
+            "openstreetmap_id": "311412497",
+            "type": "way"
+        },
+        {
+            "latitude": "48.8631335",
+            "longitude": "2.3933669",
+            "openstreetmap_id": "312059802",
+            "type": "way"
+        },
+        {
+            "latitude": "48.8583882",
+            "longitude": "2.3956719",
+            "openstreetmap_id": "314136876",
+            "type": "way"
+        },
+        {
+            "latitude": "48.8630003",
+            "longitude": "2.3973941",
+            "openstreetmap_id": "3161340330",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8630280",
+            "longitude": "2.3949170",
+            "openstreetmap_id": "3164473407",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8590840",
+            "longitude": "2.3937260",
+            "openstreetmap_id": "3167890810",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8586723",
+            "longitude": "2.3951535",
+            "openstreetmap_id": "3198462544",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8587444",
+            "longitude": "2.3947978",
+            "openstreetmap_id": "3198702233",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8585366",
+            "longitude": "2.3952915",
+            "openstreetmap_id": "3201523917",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8584981",
+            "longitude": "2.3952292",
+            "openstreetmap_id": "3201523918",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8584645",
+            "longitude": "2.3952683",
+            "openstreetmap_id": "3201698525",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8588825",
+            "longitude": "2.3967505",
+            "openstreetmap_id": "3220343697",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8605280",
+            "longitude": "2.3969170",
+            "openstreetmap_id": "3294792195",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8612866",
+            "longitude": "2.3948323",
+            "openstreetmap_id": "3569710293",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8622160",
+            "longitude": "2.3940110",
+            "openstreetmap_id": "3950134906",
+            "type": "node"
+        },
+        {
+            "latitude": "48.8591916",
+            "longitude": "2.3918972",
+            "openstreetmap_id": "4214999",
+            "type": "relation"
+        },
+        {
+            "latitude": "48.8600225",
+            "longitude": "2.3936303",
+            "openstreetmap_id": "470258150",
             "type": "node"
         }
     ]
