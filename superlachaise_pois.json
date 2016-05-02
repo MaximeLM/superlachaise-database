@@ -656,6 +656,9 @@
                     "code": "tomb"
                 },
                 {
+                    "code": "literature"
+                },
+                {
                     "code": "politics"
                 },
                 {
@@ -2061,6 +2064,9 @@
                     "code": "cinema"
                 },
                 {
+                    "code": "theatre"
+                },
+                {
                     "code": "men"
                 }
             ],
@@ -3443,6 +3449,9 @@
                 },
                 {
                     "code": "literature"
+                },
+                {
+                    "code": "theatre"
                 },
                 {
                     "code": "women"
@@ -5666,6 +5675,9 @@
                 },
                 {
                     "code": "medias"
+                },
+                {
+                    "code": "theatre"
                 },
                 {
                     "code": "women"
