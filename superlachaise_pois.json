@@ -273,7 +273,7 @@
                     "sorting_name": "Comte, Auguste"
                 },
                 {
-                    "description": "philosophe français",
+                    "description": "Sapeur certifié",
                     "id": 120,
                     "language_code": "fr",
                     "name": "Auguste Comte",
@@ -2429,6 +2429,9 @@
             "superlachaise_categories": [
                 {
                     "code": "tomb"
+                },
+                {
+                    "code": "literature"
                 },
                 {
                     "code": "medias"
@@ -11987,6 +11990,9 @@
                 },
                 {
                     "code": "cinema"
+                },
+                {
+                    "code": "literature"
                 },
                 {
                     "code": "men"
