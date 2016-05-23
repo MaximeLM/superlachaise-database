@@ -949,7 +949,7 @@
             }
         },
         {
-            "burial_plot_reference": "",
+            "burial_plot_reference": "18",
             "date_of_birth": "1768-03-21",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1830-05-16",
@@ -8357,7 +8357,7 @@
                     "id": 265,
                     "language_code": "en",
                     "name": "Joseph Léopold Sigisbert Hugo",
-                    "sorting_name": "Hugo"
+                    "sorting_name": "Hugo, Joseph Leopold Sigisbert"
                 },
                 {
                     "description": "général du Premier Empire. Il est le père de Victor Hugo.",
