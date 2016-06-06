@@ -52,7 +52,7 @@
                     "sorting_name": "Signoret, Simone",
                     "wikipedia": {
                         "id": 206,
-                        "intro": "<p><b>Simone Signoret</b> (<small>French pronunciation:&#160;​</small><span><a href=\"https://en.wikipedia.org/wiki/Help:IPA_for_French\">[simɔn siɲɔˈʁɛ]</a></span>; 25 March 1921&#160;– 30 September 1985) was a <a href=\"https://en.wikipedia.org/wiki/French_cinema\">French cinema</a> actress often hailed as one of France's greatest film stars. She became the first French person to win an <a href=\"https://en.wikipedia.org/wiki/32nd_Academy_Awards\">Academy Award</a>, for her role in <i><a href=\"https://en.wikipedia.org/wiki/Room_at_the_Top_(1959_film)\">Room at the Top</a></i> (1959). In her lifetime she also received two <a href=\"https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Actress\">Césars</a>, three <a href=\"https://en.wikipedia.org/wiki/BAFTA\">BAFTAs</a>, an <a href=\"https://en.wikipedia.org/wiki/Emmy\">Emmy</a>, a <a href=\"https://en.wikipedia.org/wiki/Cannes_Film_Festival_Award_for_Best_Actress\">Cannes Film Festival Award</a> , the <a href=\"https://en.wikipedia.org/wiki/Silver_Bear_for_Best_Actress\">Silver Bear for Best Actress</a> awards, a <a href=\"https://en.wikipedia.org/wiki/National_Board_of_Review_Award_for_Best_Actress\">NBR Award</a> and a <a href=\"https://en.wikipedia.org/wiki/Golden_Globe\">Golden Globe</a> nomination.</p>",
+                        "intro": "<p><b>Simone Signoret</b> (<small>French:&#160;</small><span><a href=\"https://en.wikipedia.org/wiki/Help:IPA_for_French\">[simɔn siɲɔʁɛ]</a></span>; 25 March 1921&#160;– 30 September 1985) was a <a href=\"https://en.wikipedia.org/wiki/French_cinema\">French cinema</a> actress often hailed as one of France's greatest film stars. She became the first French person to win an <a href=\"https://en.wikipedia.org/wiki/32nd_Academy_Awards\">Academy Award</a>, for her role in <i><a href=\"https://en.wikipedia.org/wiki/Room_at_the_Top_(1959_film)\">Room at the Top</a></i> (1959). In her lifetime she also received two <a href=\"https://en.wikipedia.org/wiki/C%C3%A9sar_Award_for_Best_Actress\">Césars</a>, three <a href=\"https://en.wikipedia.org/wiki/BAFTA\">BAFTAs</a>, an <a href=\"https://en.wikipedia.org/wiki/Emmy\">Emmy</a>, a <a href=\"https://en.wikipedia.org/wiki/Cannes_Film_Festival_Award_for_Best_Actress\">Cannes Film Festival Award</a> , the <a href=\"https://en.wikipedia.org/wiki/Silver_Bear_for_Best_Actress\">Silver Bear for Best Actress</a> awards, a <a href=\"https://en.wikipedia.org/wiki/National_Board_of_Review_Award_for_Best_Actress\">NBR Award</a> and a <a href=\"https://en.wikipedia.org/wiki/Golden_Globe\">Golden Globe</a> nomination.</p>",
                         "title": "Simone Signoret"
                     }
                 },
@@ -441,10 +441,10 @@
                     }
                 },
                 {
-                    "description": "Sapeur certifié",
+                    "description": "philosophe français",
                     "id": 286,
                     "language_code": "fr",
-                    "name": "Auguste Nyenderubusa",
+                    "name": "Auguste Comte",
                     "sorting_name": "Comte, Auguste",
                     "wikipedia": {
                         "id": 253,
