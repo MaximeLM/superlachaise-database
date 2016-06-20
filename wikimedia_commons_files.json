@@ -2350,7 +2350,7 @@
             "wikimedia_commons_id": "File:Les Salons d'architecture 1907 - Tombeau au cimetière du Père-Lachaise.jpg"
         },
         {
-            "author": "Auguste Victor Deroy (1825-1906)",
+            "author": "Auguste Victor Deroy",
             "license": "Public domain",
             "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Les_tombeaux_de_La_Fontaine_et_de_Moli%C3%A8re_au_P%C3%A8re-Lachaise%2C_de_Deroy.jpg/1024px-Les_tombeaux_de_La_Fontaine_et_de_Moli%C3%A8re_au_P%C3%A8re-Lachaise%2C_de_Deroy.jpg",
             "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/3/37/Les_tombeaux_de_La_Fontaine_et_de_Moli%C3%A8re_au_P%C3%A8re-Lachaise%2C_de_Deroy.jpg",
@@ -6924,14 +6924,6 @@
             "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/P%C3%A8re-Lachaise_-_Division_35_-_No%C3%ABl_05.jpg/2048px-P%C3%A8re-Lachaise_-_Division_35_-_No%C3%ABl_05.jpg",
             "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/P%C3%A8re-Lachaise_-_Division_35_-_No%C3%ABl_05.jpg/512px-P%C3%A8re-Lachaise_-_Division_35_-_No%C3%ABl_05.jpg",
             "wikimedia_commons_id": "File:Père-Lachaise - Division 35 - Noël 05.jpg"
-        },
-        {
-            "author": "Pierre-Yves Beaudouin",
-            "license": "CC BY-SA 4.0",
-            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/P%C3%A8re-Lachaise_-_Division_35_-_Ponce_01.jpg/1024px-P%C3%A8re-Lachaise_-_Division_35_-_Ponce_01.jpg",
-            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/1/13/P%C3%A8re-Lachaise_-_Division_35_-_Ponce_01.jpg",
-            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/P%C3%A8re-Lachaise_-_Division_35_-_Ponce_01.jpg/512px-P%C3%A8re-Lachaise_-_Division_35_-_Ponce_01.jpg",
-            "wikimedia_commons_id": "File:Père-Lachaise - Division 35 - Ponce 01.jpg"
         },
         {
             "author": "Pierre-Yves Beaudouin",
@@ -12572,6 +12564,14 @@
             "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre_Bourdieu%27s_grave.jpeg",
             "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Pierre_Bourdieu%27s_grave.jpeg/512px-Pierre_Bourdieu%27s_grave.jpeg",
             "wikimedia_commons_id": "File:Pierre Bourdieu's grave.jpeg"
+        },
+        {
+            "author": "Juha Suoranta",
+            "license": "CC BY-SA 3.0",
+            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pierre_Bourdieu%27s_grave.jpg/1024px-Pierre_Bourdieu%27s_grave.jpg",
+            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pierre_Bourdieu%27s_grave.jpg/2048px-Pierre_Bourdieu%27s_grave.jpg",
+            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pierre_Bourdieu%27s_grave.jpg/512px-Pierre_Bourdieu%27s_grave.jpg",
+            "wikimedia_commons_id": "File:Pierre Bourdieu's grave.jpg"
         },
         {
             "author": "TwoWings",
