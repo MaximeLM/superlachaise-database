@@ -3400,6 +3400,9 @@
                     "code": "tomb"
                 },
                 {
+                    "code": "medias"
+                },
+                {
                     "code": "philosophy"
                 },
                 {
@@ -5155,6 +5158,9 @@
                     "code": "literature"
                 },
                 {
+                    "code": "medias"
+                },
+                {
                     "code": "theatre"
                 },
                 {
@@ -5258,6 +5264,9 @@
             "superlachaise_categories": [
                 {
                     "code": "tomb"
+                },
+                {
+                    "code": "medias"
                 },
                 {
                     "code": "politics"
@@ -8669,7 +8678,7 @@
                     "sorting_name": "Manoir, Yves du"
                 },
                 {
-                    "description": "Joueur français de rugby à XV",
+                    "description": "joueur français de rugby à XV",
                     "id": 314,
                     "language_code": "fr",
                     "name": "Yves du Manoir",
@@ -12429,7 +12438,7 @@
                     "id": 285,
                     "language_code": "en",
                     "name": "Pierre Lachambeaudie",
-                    "sorting_name": "Lachambeaudie"
+                    "sorting_name": "Lachambeaudie, Pierre"
                 },
                 {
                     "description": "fabuliste, poète, goguettier et chansonnier français, adepte des saint-simoniens",
@@ -12674,7 +12683,7 @@
                     "sorting_name": "Souvestre, Emile"
                 },
                 {
-                    "description": "écrivain français",
+                    "description": "avocat, journaliste et écrivain français",
                     "id": 470,
                     "language_code": "fr",
                     "name": "Émile Souvestre",
