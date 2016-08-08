@@ -1,6 +1,6 @@
 {
     "about": {
-        "api_version": "0.6.0",
+        "api_version": "0.6.1",
         "licence": "https://api.superlachaise.fr/perelachaise/api/licence/",
         "source": "https://api.superlachaise.fr"
     },
@@ -601,7 +601,13 @@
                     "wikimedia_commons_id": "File:AmedeoModigliani.jpg"
                 },
                 {
+                    "wikimedia_commons_id": "File:Modigliani and Hébuterne grave.jpg"
+                },
+                {
                     "wikimedia_commons_id": "File:Modigliani gravestone.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Tomba di Amedeo Modigliani.jpg"
                 }
             ],
             "main_image": {
@@ -1791,6 +1797,9 @@
                 },
                 {
                     "wikimedia_commons_id": "File:Père-Lachaise - Division 10 - Claude Chabrol 01.jpg"
+                },
+                {
+                    "wikimedia_commons_id": "File:Tomb Claude Chabrol (in the cemetery Pere Lachaise).JPG"
                 },
                 {
                     "wikimedia_commons_id": "File:Tombe de Claude Chabrol.jpg"
