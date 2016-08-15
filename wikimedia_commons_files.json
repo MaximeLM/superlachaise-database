@@ -2182,6 +2182,14 @@
             "wikimedia_commons_id": "File:Jim Morrisons Grab.jpg"
         },
         {
+            "author": "Jim Linwood from London",
+            "license": "CC BY 2.0",
+            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jim_Morrisons_Grave%2C_P%C3%A8re_Lachaise_Cemetery%2C_Paris%2C_France_2004-03-14.jpg/1024px-Jim_Morrisons_Grave%2C_P%C3%A8re_Lachaise_Cemetery%2C_Paris%2C_France_2004-03-14.jpg",
+            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jim_Morrisons_Grave%2C_P%C3%A8re_Lachaise_Cemetery%2C_Paris%2C_France_2004-03-14.jpg/2048px-Jim_Morrisons_Grave%2C_P%C3%A8re_Lachaise_Cemetery%2C_Paris%2C_France_2004-03-14.jpg",
+            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jim_Morrisons_Grave%2C_P%C3%A8re_Lachaise_Cemetery%2C_Paris%2C_France_2004-03-14.jpg/512px-Jim_Morrisons_Grave%2C_P%C3%A8re_Lachaise_Cemetery%2C_Paris%2C_France_2004-03-14.jpg",
+            "wikimedia_commons_id": "File:Jim Morrisons Grave, Père Lachaise Cemetery, Paris, France 2004-03-14.jpg"
+        },
+        {
             "author": "François Gabriel Théodore Busset de Jolimont",
             "license": "Public domain",
             "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Jolimont_-_Les_mausol%C3%A9s_fran%C3%A7ais_-_02.jpeg/1024px-Jolimont_-_Les_mausol%C3%A9s_fran%C3%A7ais_-_02.jpeg",
@@ -3126,14 +3134,6 @@
             "wikimedia_commons_id": "File:Paris - Le Père Lachaise cemetery - 4168.jpg"
         },
         {
-            "author": "JLPC",
-            "license": "CC BY-SA 3.0",
-            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paris_Monument_aux_morts_Bartholom%C3%A9_2013.jpg/1024px-Paris_Monument_aux_morts_Bartholom%C3%A9_2013.jpg",
-            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paris_Monument_aux_morts_Bartholom%C3%A9_2013.jpg/2048px-Paris_Monument_aux_morts_Bartholom%C3%A9_2013.jpg",
-            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paris_Monument_aux_morts_Bartholom%C3%A9_2013.jpg/512px-Paris_Monument_aux_morts_Bartholom%C3%A9_2013.jpg",
-            "wikimedia_commons_id": "File:Paris Monument aux morts Bartholomé 2013.jpg"
-        },
-        {
             "author": "Janericloebe",
             "license": "Public domain",
             "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Paris_P%C3%A8re-Lachaise_001.JPG/1024px-Paris_P%C3%A8re-Lachaise_001.JPG",
@@ -3256,14 +3256,6 @@
         {
             "author": "Pierre André",
             "license": "GFDL",
-            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Paris_P%C3%A8re_Lachaise_Edith_Piaf.JPG/1024px-Paris_P%C3%A8re_Lachaise_Edith_Piaf.JPG",
-            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Paris_P%C3%A8re_Lachaise_Edith_Piaf.JPG/2048px-Paris_P%C3%A8re_Lachaise_Edith_Piaf.JPG",
-            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Paris_P%C3%A8re_Lachaise_Edith_Piaf.JPG/512px-Paris_P%C3%A8re_Lachaise_Edith_Piaf.JPG",
-            "wikimedia_commons_id": "File:Paris Père Lachaise Edith Piaf.JPG"
-        },
-        {
-            "author": "Pierre André",
-            "license": "GFDL",
             "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Paris_P%C3%A8re_Lachaise_F%C3%A9lix_Faure.JPG/1024px-Paris_P%C3%A8re_Lachaise_F%C3%A9lix_Faure.JPG",
             "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Paris_P%C3%A8re_Lachaise_F%C3%A9lix_Faure.JPG/2048px-Paris_P%C3%A8re_Lachaise_F%C3%A9lix_Faure.JPG",
             "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Paris_P%C3%A8re_Lachaise_F%C3%A9lix_Faure.JPG/512px-Paris_P%C3%A8re_Lachaise_F%C3%A9lix_Faure.JPG",
@@ -3340,6 +3332,14 @@
             "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Paris_P%C3%A8re_Lachaise_Musset.JPG/2048px-Paris_P%C3%A8re_Lachaise_Musset.JPG",
             "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Paris_P%C3%A8re_Lachaise_Musset.JPG/512px-Paris_P%C3%A8re_Lachaise_Musset.JPG",
             "wikimedia_commons_id": "File:Paris Père Lachaise Musset.JPG"
+        },
+        {
+            "author": "Pierre André",
+            "license": "GFDL",
+            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Paris_P%C3%A8re_Lachaise_Rossini.JPG/1024px-Paris_P%C3%A8re_Lachaise_Rossini.JPG",
+            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Paris_P%C3%A8re_Lachaise_Rossini.JPG/2048px-Paris_P%C3%A8re_Lachaise_Rossini.JPG",
+            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Paris_P%C3%A8re_Lachaise_Rossini.JPG/512px-Paris_P%C3%A8re_Lachaise_Rossini.JPG",
+            "wikimedia_commons_id": "File:Paris Père Lachaise Rossini.JPG"
         },
         {
             "author": "Pierre André",
@@ -4264,10 +4264,10 @@
         {
             "author": "Coyau Attribution(required by the license) Coyau / Wikimedia Commons / CC BY-SA 3.0 Coyau / Wikimedia Commons",
             "license": "CC BY-SA 3.0",
-            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_07.jpg/1024px-P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_07.jpg",
-            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_07.jpg/2048px-P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_07.jpg",
-            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_07.jpg/512px-P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_07.jpg",
-            "wikimedia_commons_id": "File:Père-Lachaise - Division 10 - Dominique Vivant Denon 07.jpg"
+            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_05.jpg/1024px-P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_05.jpg",
+            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_05.jpg/2048px-P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_05.jpg",
+            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_05.jpg/512px-P%C3%A8re-Lachaise_-_Division_10_-_Dominique_Vivant_Denon_05.jpg",
+            "wikimedia_commons_id": "File:Père-Lachaise - Division 10 - Dominique Vivant Denon 05.jpg"
         },
         {
             "author": "Coyau Attribution(required by the license) Coyau / Wikimedia Commons / CC BY-SA 3.0 Coyau / Wikimedia Commons",
@@ -6799,6 +6799,14 @@
         },
         {
             "author": "Pierre-Yves Beaudouin",
+            "license": "CC BY-SA 4.0",
+            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/P%C3%A8re-Lachaise_-_Division_32_-_Claude_Brosset_01.jpg/1024px-P%C3%A8re-Lachaise_-_Division_32_-_Claude_Brosset_01.jpg",
+            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/4/40/P%C3%A8re-Lachaise_-_Division_32_-_Claude_Brosset_01.jpg",
+            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/P%C3%A8re-Lachaise_-_Division_32_-_Claude_Brosset_01.jpg/512px-P%C3%A8re-Lachaise_-_Division_32_-_Claude_Brosset_01.jpg",
+            "wikimedia_commons_id": "File:Père-Lachaise - Division 32 - Claude Brosset 01.jpg"
+        },
+        {
+            "author": "Pierre-Yves Beaudouin",
             "license": "CC BY-SA 3.0",
             "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/P%C3%A8re-Lachaise_-_Division_32_-_Mauduit_01.jpg/1024px-P%C3%A8re-Lachaise_-_Division_32_-_Mauduit_01.jpg",
             "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/P%C3%A8re-Lachaise_-_Division_32_-_Mauduit_01.jpg/2048px-P%C3%A8re-Lachaise_-_Division_32_-_Mauduit_01.jpg",
@@ -6956,6 +6964,14 @@
             "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/P%C3%A8re-Lachaise_-_Division_35_-_No%C3%ABl_05.jpg/2048px-P%C3%A8re-Lachaise_-_Division_35_-_No%C3%ABl_05.jpg",
             "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/P%C3%A8re-Lachaise_-_Division_35_-_No%C3%ABl_05.jpg/512px-P%C3%A8re-Lachaise_-_Division_35_-_No%C3%ABl_05.jpg",
             "wikimedia_commons_id": "File:Père-Lachaise - Division 35 - Noël 05.jpg"
+        },
+        {
+            "author": "Pierre-Yves Beaudouin",
+            "license": "CC BY-SA 4.0",
+            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/P%C3%A8re-Lachaise_-_Division_35_-_Ponce_01.jpg/1024px-P%C3%A8re-Lachaise_-_Division_35_-_Ponce_01.jpg",
+            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/1/13/P%C3%A8re-Lachaise_-_Division_35_-_Ponce_01.jpg",
+            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/P%C3%A8re-Lachaise_-_Division_35_-_Ponce_01.jpg/512px-P%C3%A8re-Lachaise_-_Division_35_-_Ponce_01.jpg",
+            "wikimedia_commons_id": "File:Père-Lachaise - Division 35 - Ponce 01.jpg"
         },
         {
             "author": "Pierre-Yves Beaudouin",
@@ -7292,6 +7308,14 @@
             "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/P%C3%A8re-Lachaise_-_Division_37_-_Gobert_05.jpg/2048px-P%C3%A8re-Lachaise_-_Division_37_-_Gobert_05.jpg",
             "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/P%C3%A8re-Lachaise_-_Division_37_-_Gobert_05.jpg/512px-P%C3%A8re-Lachaise_-_Division_37_-_Gobert_05.jpg",
             "wikimedia_commons_id": "File:Père-Lachaise - Division 37 - Gobert 05.jpg"
+        },
+        {
+            "author": "Pierre-Yves Beaudouin",
+            "license": "CC BY-SA 3.0",
+            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/P%C3%A8re-Lachaise_-_Division_37_-_Gobert_06.jpg/1024px-P%C3%A8re-Lachaise_-_Division_37_-_Gobert_06.jpg",
+            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/P%C3%A8re-Lachaise_-_Division_37_-_Gobert_06.jpg/2048px-P%C3%A8re-Lachaise_-_Division_37_-_Gobert_06.jpg",
+            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/P%C3%A8re-Lachaise_-_Division_37_-_Gobert_06.jpg/512px-P%C3%A8re-Lachaise_-_Division_37_-_Gobert_06.jpg",
+            "wikimedia_commons_id": "File:Père-Lachaise - Division 37 - Gobert 06.jpg"
         },
         {
             "author": "Pierre-Yves Beaudouin",
@@ -8852,6 +8876,14 @@
             "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/P%C3%A8re-Lachaise_-_Division_4_-_Hoff_06.jpg/2048px-P%C3%A8re-Lachaise_-_Division_4_-_Hoff_06.jpg",
             "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/P%C3%A8re-Lachaise_-_Division_4_-_Hoff_06.jpg/512px-P%C3%A8re-Lachaise_-_Division_4_-_Hoff_06.jpg",
             "wikimedia_commons_id": "File:Père-Lachaise - Division 4 - Hoff 06.jpg"
+        },
+        {
+            "author": "Pierre-Yves Beaudouin",
+            "license": "CC BY-SA 3.0",
+            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/P%C3%A8re-Lachaise_-_Division_4_-_Hoff_07.jpg/1024px-P%C3%A8re-Lachaise_-_Division_4_-_Hoff_07.jpg",
+            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/P%C3%A8re-Lachaise_-_Division_4_-_Hoff_07.jpg/2048px-P%C3%A8re-Lachaise_-_Division_4_-_Hoff_07.jpg",
+            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/P%C3%A8re-Lachaise_-_Division_4_-_Hoff_07.jpg/512px-P%C3%A8re-Lachaise_-_Division_4_-_Hoff_07.jpg",
+            "wikimedia_commons_id": "File:Père-Lachaise - Division 4 - Hoff 07.jpg"
         },
         {
             "author": "Pierre-Yves Beaudouin",
@@ -13036,6 +13068,14 @@
             "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Raftgrave_cropped.jpg",
             "url_512px": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Raftgrave_cropped.jpg",
             "wikimedia_commons_id": "File:Raftgrave cropped.jpg"
+        },
+        {
+            "author": "JHvW",
+            "license": "CC BY-SA 3.0",
+            "url_1024px": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Raspail_funerary_monument.JPG/1024px-Raspail_funerary_monument.JPG",
+            "url_2048px": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Raspail_funerary_monument.JPG",
+            "url_512px": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Raspail_funerary_monument.JPG/512px-Raspail_funerary_monument.JPG",
+            "wikimedia_commons_id": "File:Raspail funerary monument.JPG"
         },
         {
             "author": "Ilya Repin",
