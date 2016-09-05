@@ -4305,6 +4305,9 @@
                     "code": "literature"
                 },
                 {
+                    "code": "medias"
+                },
+                {
                     "code": "theatre"
                 },
                 {
@@ -9047,8 +9050,8 @@
                     "description": "philosophe français",
                     "id": 446,
                     "language_code": "fr",
-                    "name": "Claude Henri de Rouvroy, comte de Saint Simon",
-                    "sorting_name": "Rouvroy, comte de Saint Simon"
+                    "name": "Claude-Henri de Rouvroy de Saint-Simon",
+                    "sorting_name": "Saint-Simon, Claude Henri de Rouvroy, comte de"
                 }
             ],
             "openstreetmap_element": {
