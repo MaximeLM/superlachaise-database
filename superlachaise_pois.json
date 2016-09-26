@@ -853,7 +853,7 @@
                     "sorting_name": "Balzac, Honore De"
                 },
                 {
-                    "description": "écrivain français",
+                    "description": "romancier, critique littéraire, essayiste, journaliste et écrivain français",
                     "id": 28,
                     "language_code": "fr",
                     "name": "Honoré de Balzac",
@@ -4235,7 +4235,7 @@
                     "sorting_name": "Beaucé"
                 },
                 {
-                    "description": "peintre français",
+                    "description": "peintre et illustrateur français",
                     "id": 42,
                     "language_code": "fr",
                     "name": "Jean-Adolphe Beaucé",
