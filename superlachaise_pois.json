@@ -483,7 +483,7 @@
                     "sorting_name": "Chopin, Frederic"
                 },
                 {
-                    "description": "compositeur franco-polonais",
+                    "description": "compositeur et pianiste franco-polonais",
                     "id": 114,
                     "language_code": "fr",
                     "name": "Frédéric Chopin",
@@ -643,7 +643,7 @@
                     "sorting_name": "Cuvier, Georges"
                 },
                 {
-                    "description": "scientifique et écrivain français",
+                    "description": "naturaliste, zoologiste, paléontologue, historien des sciences et illustrateur français",
                     "id": 140,
                     "language_code": "fr",
                     "name": "Georges Cuvier",
@@ -5994,7 +5994,7 @@
                     "sorting_name": "Corot, Jean-Baptiste-Camille"
                 },
                 {
-                    "description": "artiste français",
+                    "description": "peintre français",
                     "id": 130,
                     "language_code": "fr",
                     "name": "Jean-Baptiste Camille Corot",
@@ -8993,7 +8993,7 @@
                     "sorting_name": "Brillat-Savarin, Jean Anthelme"
                 },
                 {
-                    "description": "personnalité politique française",
+                    "description": "personnalité politique, magistrat et gastronome français",
                     "id": 82,
                     "language_code": "fr",
                     "name": "Jean Anthelme Brillat-Savarin",
@@ -12141,7 +12141,7 @@
                     "sorting_name": "Deherme"
                 },
                 {
-                    "description": "initiateur des Universités populaires",
+                    "description": "ouvrier sculpteur sur bois, typographe et libertaire français, initiateur des Universités populaires",
                     "id": 164,
                     "language_code": "fr",
                     "name": "Georges Deherme",
