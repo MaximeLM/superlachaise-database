@@ -621,7 +621,7 @@
             "wikidata_id": "Q133855"
         },
         {
-            "date_of_birth": "1807-12-16",
+            "date_of_birth": "1806-12-16",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1872-07-07",
             "date_of_death_accuracy": "Day",
@@ -733,7 +733,7 @@
                     "sorting_name": "Deseze, Raymond",
                     "wikipedia": {
                         "id": 197,
-                        "intro": "<p><b>Raymond Romain, Comte de Sèze</b> or <b>Desèze</b> (26 September 1750 – 2 May 1828) was a <a href=\"https://en.wikipedia.org/wiki/French_people\">French</a> <a href=\"https://en.wikipedia.org/wiki/Advocate\">advocate</a>. Together with <a href=\"https://en.wikipedia.org/wiki/Fran%C3%A7ois_Tronchet\">François Tronchet</a> and <a href=\"https://en.wikipedia.org/wiki/Guillaume-Chr%C3%A9tien_de_Lamoignon_de_Malesherbes\">Malesherbes</a>, he defended <a href=\"https://en.wikipedia.org/wiki/Louis_XVI_of_France\">Louis XVI</a>, when the king was brought before the Convention for trial.</p>",
+                        "intro": "<p><b>Raymond Romain, Comte de Sèze</b> or <b>Desèze</b> (26 September 1750&#160;– 2 May 1828) was a <a href=\"https://en.wikipedia.org/wiki/French_people\">French</a> <a href=\"https://en.wikipedia.org/wiki/Advocate\">advocate</a>. Together with <a href=\"https://en.wikipedia.org/wiki/Fran%C3%A7ois_Tronchet\">François Tronchet</a> and <a href=\"https://en.wikipedia.org/wiki/Guillaume-Chr%C3%A9tien_de_Lamoignon_de_Malesherbes\">Malesherbes</a>, he defended <a href=\"https://en.wikipedia.org/wiki/Louis_XVI_of_France\">Louis XVI</a>, when the king was brought before the Convention for trial.</p>",
                         "title": "Raymond Desèze"
                     }
                 },
@@ -1026,7 +1026,7 @@
                     "description": "peintre français",
                     "id": 318,
                     "language_code": "fr",
-                    "name": "Jean-Baptiste Camille Corot",
+                    "name": "Jean-Baptiste Camille Corot shaima .mqy la plus belle",
                     "sorting_name": "Corot, Camille",
                     "wikipedia": {
                         "id": 367,
@@ -1073,7 +1073,7 @@
         {
             "localizations": [
                 {
-                    "description": "",
+                    "description": "Nazi concentration camp",
                     "id": 165,
                     "language_code": "en",
                     "name": "Dachau concentration camp",
@@ -1163,6 +1163,48 @@
             "wikidata_id": "Q15163097"
         },
         {
+            "localizations": [
+                {
+                    "description": "",
+                    "id": 555,
+                    "language_code": "en",
+                    "name": "Alain Bashung's tomb",
+                    "sorting_name": "Alain Bashung's tomb",
+                    "wikipedia": null
+                },
+                {
+                    "description": "tombe de l'auteur-compositeur-interprète et comédien français",
+                    "id": 556,
+                    "language_code": "fr",
+                    "name": "tombe d'Alain Bashung",
+                    "sorting_name": "tombe d'Alain Bashung",
+                    "wikipedia": null
+                }
+            ],
+            "wikidata_id": "Q15168424"
+        },
+        {
+            "localizations": [
+                {
+                    "description": "",
+                    "id": 553,
+                    "language_code": "en",
+                    "name": "Gilbert Bécaud's tomb",
+                    "sorting_name": "Gilbert Bécaud's tomb",
+                    "wikipedia": null
+                },
+                {
+                    "description": "tombe du chanteur, compositeur, pianiste et acteur français",
+                    "id": 554,
+                    "language_code": "fr",
+                    "name": "tombe de Gilbert Bécaud",
+                    "sorting_name": "tombe de Gilbert Bécaud",
+                    "wikipedia": null
+                }
+            ],
+            "wikidata_id": "Q15168755"
+        },
+        {
             "date_of_birth": "1821-10-08",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1908-05-15",
@@ -1239,7 +1281,7 @@
                     }
                 },
                 {
-                    "description": "réalisateur de films français",
+                    "description": "inéaste, acteur, producteur, réalisateur, prestidigitateur et illusionniste français, pionnier et inventeur du spectacle cinématographique",
                     "id": 518,
                     "language_code": "fr",
                     "name": "Georges Méliès",
@@ -1692,39 +1734,6 @@
             "wikidata_id": "Q15968895"
         },
         {
-            "date_of_birth": "1927-10-24",
-            "date_of_birth_accuracy": "Day",
-            "date_of_death": "2001-12-18",
-            "date_of_death_accuracy": "Day",
-            "localizations": [
-                {
-                    "description": "French musician",
-                    "id": 415,
-                    "language_code": "en",
-                    "name": "Gilbert Bécaud",
-                    "sorting_name": "Becaud, Gilbert",
-                    "wikipedia": {
-                        "id": 99,
-                        "intro": "<p><b>Gilbert Bécaud</b> (<small>French pronunciation:&#160;​</small><span><a href=\"https://en.wikipedia.org/wiki/Help:IPA_for_French\">[ʒil.bɛːʁ be.ko]</a></span>, 24 October 1927 – 18 December 2001) was a French singer, composer, pianist and actor, known as \"Monsieur 100,000 Volts\" for his energetic performances. His best-known <a href=\"https://en.wikipedia.org/wiki/Hit_record\">hits</a> are \"Nathalie\" and \"Et Maintenant\", a 1961 release that became an English language hit as \"<a href=\"https://en.wikipedia.org/wiki/What_Now_My_Love_(song)\">What Now My Love</a>\". He remained a popular artist for nearly fifty years, identifiable in his dark blue suits, with a white shirt and \"lucky tie\"; blue with white polka dots. When asked to explain his gift he said, \"A flower doesn't understand botany.\" His favourite <a href=\"https://en.wikipedia.org/wiki/Music_venue\">venue</a> was the <a href=\"https://en.wikipedia.org/wiki/Paris_Olympia\">Paris Olympia</a> under the management of <a href=\"https://en.wikipedia.org/wiki/Bruno_Coquatrix\">Bruno Coquatrix</a>. He debuted there in 1954 and headlined in 1955, attracting 6,000 on his first night, three times the capacity. On November 13, 1997, Bécaud was present for the re-opening of the venue after its reconstruction.</p>",
-                        "title": "Gilbert Bécaud"
-                    }
-                },
-                {
-                    "description": "chanteur, compositeur, pianiste et acteur français",
-                    "id": 416,
-                    "language_code": "fr",
-                    "name": "Gilbert Bécaud",
-                    "sorting_name": "Becaud, Gilbert",
-                    "wikipedia": {
-                        "id": 338,
-                        "intro": "<p><b>Gilbert Bécaud</b>, né le <time><a href=\"https://fr.wikipedia.org/wiki/24_octobre\">24</a> <a href=\"https://fr.wikipedia.org/wiki/Octobre_1927\">octobre</a> <a href=\"https://fr.wikipedia.org/wiki/1927\">1927</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Toulon\">Toulon</a> et mort le <time><a href=\"https://fr.wikipedia.org/wiki/18_d%C3%A9cembre\">18</a> <a href=\"https://fr.wikipedia.org/wiki/D%C3%A9cembre_2001\">décembre</a> <a href=\"https://fr.wikipedia.org/wiki/2001\">2001</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Paris\">Paris</a>, est un <a href=\"https://fr.wikipedia.org/wiki/Chanteur\">chanteur</a>, compositeur et <a href=\"https://fr.wikipedia.org/wiki/Pianiste\">pianiste</a> <a href=\"https://fr.wikipedia.org/wiki/France\">français</a>.</p>\n<p>Au cours de sa carrière, il se produit trente-trois fois sur la scène de <a href=\"https://fr.wikipedia.org/wiki/L%27Olympia\">l'Olympia</a>, où il gagne son surnom de <span>«&#160;<b>Monsieur <span>100&#160;000&#160;volts</span></b>&#160;»</span> en raison de son sens du <i><a href=\"https://fr.wikipedia.org/wiki/Swing_(musique)\">swing</a></i>, à cause des passions qu'il soulevait dans son sillage et de ses fans qui, souvent, cassaient par enthousiasme les fauteuils. Il laisse l'image d'un homme <i>électrique</i>, toujours en mouvement. Sa <a href=\"https://fr.wikipedia.org/wiki/Cravate\">cravate</a> à pois, ses quelque quatre cents chansons et sa main sur l'oreille (pour être sûr de chanter juste) sont d’autres images spécifiques qui ont marqué les esprits.</p>",
-                        "title": "Gilbert Bécaud"
-                    }
-                }
-            ],
-            "wikidata_id": "Q160433"
-        },
-        {
             "date_of_birth": "1827-12-31",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1895-07-10",
@@ -1915,7 +1924,7 @@
                     "sorting_name": "Musset, Alfred de",
                     "wikipedia": {
                         "id": 233,
-                        "intro": "<p><b>Alfred de Musset</b> est un <a href=\"https://fr.wikipedia.org/wiki/Po%C3%A8te\">poète</a> et un <a href=\"https://fr.wikipedia.org/wiki/Dramaturge\">dramaturge</a> <a href=\"https://fr.wikipedia.org/wiki/France\">français</a> de la période <a href=\"https://fr.wikipedia.org/wiki/Romantisme\">romantique</a>, né le <time><a href=\"https://fr.wikipedia.org/wiki/11_d%C3%A9cembre\">11</a> <a href=\"https://fr.wikipedia.org/wiki/D%C3%A9cembre_1810\">décembre</a> <a href=\"https://fr.wikipedia.org/wiki/1810\">1810</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Paris\">Paris</a>, où il est mort le <time><a href=\"https://fr.wikipedia.org/wiki/2_mai\">2</a> <a href=\"https://fr.wikipedia.org/wiki/Mai_1857\">mai</a> <a href=\"https://fr.wikipedia.org/wiki/1857\">1857</a></time>.</p>\n<p>Lycéen brillant, il s’intéresse ensuite, entre autres, au Droit et à la Médecine, mais abandonne vite ses études supérieures pour se consacrer à la littérature à partir de 1828-1829. Il fréquente les poètes du Cénacle de <a href=\"https://fr.wikipedia.org/wiki/Charles_Nodier\">Charles Nodier</a> et publie à 19 ans <i>Contes d'Espagne et d'Italie</i>, son premier recueil poétique. Il commence alors à mener une vie de «&#160;<a href=\"https://fr.wikipedia.org/wiki/Dandy\">dandy</a> débauché&#160;», marquée par sa liaison avec <a href=\"https://fr.wikipedia.org/wiki/George_Sand\">George Sand</a>, tout en écrivant des pièces de théâtre&#160;: <i>À quoi rêvent les jeunes filles&#160;?</i> en 1832, <i><a href=\"https://fr.wikipedia.org/wiki/Les_Caprices_de_Marianne\">Les Caprices de Marianne</a></i> en 1833, puis son <a href=\"https://fr.wikipedia.org/wiki/Chef-d%27%C5%93uvre\">chef-d'œuvre</a>, le <a href=\"https://fr.wikipedia.org/wiki/Drame_romantique\">drame romantique</a> <i><a href=\"https://fr.wikipedia.org/wiki/Lorenzaccio\">Lorenzaccio</a></i>, <i><a href=\"https://fr.wikipedia.org/wiki/Fantasio_(Musset)\">Fantasio</a></i> et <i><a href=\"https://fr.wikipedia.org/wiki/On_ne_badine_pas_avec_l%27amour\">On ne badine pas avec l'amour</a></i>. Il publie parallèlement des <a href=\"https://fr.wikipedia.org/wiki/Po%C3%A9sie\">poèmes</a> tourmentés comme <i><a>s:La Nuit de mai</a></i> et <i><a href=\"https://fr.wikipedia.org/wiki/La_Nuit_de_d%C3%A9cembre_(Musset)\">la Nuit de décembre</a></i> en 1835, puis <i>La Nuit d'août</i> (1836) <i>La Nuit d'octobre</i> (1837), et un <a href=\"https://fr.wikipedia.org/wiki/Roman_autobiographique\">roman autobiographique</a> <i><a href=\"https://fr.wikipedia.org/wiki/La_Confession_d%27un_enfant_du_si%C3%A8cle_(roman)\">La Confession d'un enfant du siècle</a></i> en 1836.</p>\n<p>Dépressif et alcoolique, il écrit de moins en moins après l'âge de 30 ans&#160;; on peut cependant relever les poèmes <i>Tristesse</i>, <i>Une soirée perdue</i> (1840), <i>Souvenir</i> en 1845 et diverses nouvelles (<i>Histoire d'un merle blanc</i>, 1842). Il reçoit la <a href=\"https://fr.wikipedia.org/wiki/L%C3%A9gion_d%27honneur\">Légion d'honneur</a> en 1845 et est élu à l'<a href=\"https://fr.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise\">Académie française</a> en 1852. Il écrit des pièces de commande pour Napoléon III. Il meurt à 46 ans et est enterré dans la discrétion au <a href=\"https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise\">cimetière du Père-Lachaise</a>.</p>\n<p>Redécouvert au <abbr><span>XX</span><sup>e</sup></abbr>&#160;siècle, notamment dans le cadre du <a href=\"https://fr.wikipedia.org/wiki/Le_Th%C3%A9%C3%A2tre_national_populaire\">TNP</a> de <a href=\"https://fr.wikipedia.org/wiki/Jean_Vilar\">Jean Vilar</a> et <a href=\"https://fr.wikipedia.org/wiki/G%C3%A9rard_Philipe\">Gérard Philipe</a>, Alfred de Musset est désormais considéré comme un des grands écrivains <a href=\"https://fr.wikipedia.org/wiki/Romantiques\">romantiques</a> français, dont le <a href=\"https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_(genre_litt%C3%A9raire)\">théâtre</a> et la <a href=\"https://fr.wikipedia.org/wiki/Po%C3%A9sie_lyrique\">poésie lyrique</a> montrent une sensibilité extrême, une interrogation sur la pureté et la débauche, une exaltation de l'amour et une expression sincère de la douleur. Sincérité qui renvoie à sa vie tumultueuse, qu'illustre emblématiquement sa relation avec <a href=\"https://fr.wikipedia.org/wiki/George_Sand\">George Sand</a>.</p>",
+                        "intro": "<p><b>Alfred de Musset</b> est un <a href=\"https://fr.wikipedia.org/wiki/Po%C3%A8te\">poète</a> et un <a href=\"https://fr.wikipedia.org/wiki/Dramaturge\">dramaturge</a> <a href=\"https://fr.wikipedia.org/wiki/France\">français</a> de la période <a href=\"https://fr.wikipedia.org/wiki/Romantisme\">romantique</a>, né le 11 décembre 1810 à <a href=\"https://fr.wikipedia.org/wiki/Paris\">Paris</a>, où il est mort le 2 mai 1857.</p>\n<p>Lycéen brillant, il s’intéresse ensuite, entre autres, au droit et à la médecine, mais abandonne vite ses études supérieures pour se consacrer à la littérature à partir de 1828-1829. Il fréquente les poètes du Cénacle de <a href=\"https://fr.wikipedia.org/wiki/Charles_Nodier\">Charles Nodier</a> et publie à 19 ans <i>Contes d'Espagne et d'Italie</i>, son premier recueil poétique. Il commence alors à mener une vie de «&#160;<a href=\"https://fr.wikipedia.org/wiki/Dandy\">dandy</a> débauché&#160;», marquée par sa liaison avec <a href=\"https://fr.wikipedia.org/wiki/George_Sand\">George Sand</a>, tout en écrivant des pièces de théâtre&#160;: <i>À quoi rêvent les jeunes filles&#160;?</i> en 1832, <i><a href=\"https://fr.wikipedia.org/wiki/Les_Caprices_de_Marianne\">Les Caprices de Marianne</a></i> en 1833, puis son <a href=\"https://fr.wikipedia.org/wiki/Chef-d%27%C5%93uvre\">chef-d'œuvre</a>, le <a href=\"https://fr.wikipedia.org/wiki/Drame_romantique\">drame romantique</a> <i><a href=\"https://fr.wikipedia.org/wiki/Lorenzaccio\">Lorenzaccio</a></i>, <i><a href=\"https://fr.wikipedia.org/wiki/Fantasio_(Musset)\">Fantasio</a></i> et <i><a href=\"https://fr.wikipedia.org/wiki/On_ne_badine_pas_avec_l%27amour\">On ne badine pas avec l'amour</a></i>. Il publie parallèlement des <a href=\"https://fr.wikipedia.org/wiki/Po%C3%A9sie\">poèmes</a> tourmentés comme <i><a>la Nuit de mai</a></i> et <i><a href=\"https://fr.wikipedia.org/wiki/La_Nuit_de_d%C3%A9cembre_(Musset)\">la Nuit de décembre</a></i> en 1835, puis <i>La Nuit d'août</i> (1836) <i>La Nuit d'octobre</i> (1837), et un <a href=\"https://fr.wikipedia.org/wiki/Roman_autobiographique\">roman autobiographique</a> <i><a href=\"https://fr.wikipedia.org/wiki/La_Confession_d%27un_enfant_du_si%C3%A8cle_(roman)\">La Confession d'un enfant du siècle</a></i> en 1836.</p>\n<p>Dépressif et alcoolique, il écrit de moins en moins après l'âge de 30 ans&#160;; on peut cependant relever les poèmes <i>Tristesse</i>, <i>Une soirée perdue</i> (1840), <i>Souvenir</i> en 1845 et diverses nouvelles (<i>Histoire d'un merle blanc</i>, 1842). Il reçoit la <a href=\"https://fr.wikipedia.org/wiki/L%C3%A9gion_d%27honneur\">Légion d'honneur</a> en 1845 et est élu à l'<a href=\"https://fr.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise\">Académie française</a> en 1852. Il écrit des pièces de commande pour Napoléon III. Il meurt à 46 ans et est enterré dans la discrétion au <a href=\"https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise\">cimetière du Père-Lachaise</a>.</p>\n<p>Redécouvert au <abbr><span>XX</span><sup>e</sup></abbr>&#160;siècle, notamment dans le cadre du <a href=\"https://fr.wikipedia.org/wiki/Le_Th%C3%A9%C3%A2tre_national_populaire\">TNP</a> de <a href=\"https://fr.wikipedia.org/wiki/Jean_Vilar\">Jean Vilar</a> et <a href=\"https://fr.wikipedia.org/wiki/G%C3%A9rard_Philipe\">Gérard Philipe</a>, Alfred de Musset est désormais considéré comme un des grands écrivains <a href=\"https://fr.wikipedia.org/wiki/Romantiques\">romantiques</a> français, dont le <a href=\"https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_(genre_litt%C3%A9raire)\">théâtre</a> et la <a href=\"https://fr.wikipedia.org/wiki/Po%C3%A9sie_lyrique\">poésie lyrique</a> montrent une sensibilité extrême, une interrogation sur la pureté et la débauche, une exaltation de l'amour et une expression sincère de la douleur. Sincérité qui renvoie à sa vie tumultueuse, qu'illustre emblématiquement sa relation avec <a href=\"https://fr.wikipedia.org/wiki/George_Sand\">George Sand</a>.</p>",
                         "title": "Alfred de Musset"
                     }
                 }
@@ -2728,7 +2737,7 @@
                     "sorting_name": "Merleau-Ponty, Maurice",
                     "wikipedia": {
                         "id": 168,
-                        "intro": "<p><b>Maurice Merleau-Ponty</b> (<small>French:&#160;</small><span><a href=\"https://en.wikipedia.org/wiki/Help:IPA_for_French\">[mɔʁis mɛʁlo pɔ̃ti]</a></span>; 14 March 1908 – 3 May 1961) was a <a href=\"https://en.wikipedia.org/wiki/France\">French</a> <a href=\"https://en.wikipedia.org/wiki/Phenomenology_(philosophy)\">phenomenological</a> <a href=\"https://en.wikipedia.org/wiki/Philosopher\">philosopher</a>, strongly influenced by <a href=\"https://en.wikipedia.org/wiki/Edmund_Husserl\">Edmund Husserl</a> and <a href=\"https://en.wikipedia.org/wiki/Martin_Heidegger\">Martin Heidegger</a>. The constitution of meaning in human experience was his main interest and he wrote on perception, art, and politics. He was on the editorial board of <i><a href=\"https://en.wikipedia.org/wiki/Les_Temps_modernes\">Les Temps modernes</a></i>, the leftist magazine created by <a href=\"https://en.wikipedia.org/wiki/Jean-Paul_Sartre\">Jean-Paul Sartre</a> in 1945.</p>\n<p>At the core of Merleau-Ponty's philosophy is a sustained argument for the foundational role perception plays in understanding the world as well as engaging with the world. Like the other major phenomenologists, Merleau-Ponty expressed his philosophical insights in writings on art, literature, linguistics, and politics. He was the only major phenomenologist of the first half of the twentieth century to engage extensively with the sciences and especially with <a href=\"https://en.wikipedia.org/wiki/Descriptive_psychology\">descriptive psychology</a>. It is through this engagement that his writings have become influential in the recent project of naturalizing phenomenology, in which phenomenologists use the results of <a href=\"https://en.wikipedia.org/wiki/Psychology\">psychology</a> and <a href=\"https://en.wikipedia.org/wiki/Cognitive_science\">cognitive science</a>.</p>\n<p>Merleau-Ponty emphasized the body as the primary site of knowing the world, a corrective to the long philosophical tradition of placing consciousness as the source of knowledge, and maintained that the body and that which it perceived could not be disentangled from each other. The articulation of the primacy of embodiment led him away from phenomenology towards what he was to call “indirect ontology” or the ontology of “the flesh of the world” (<i>la chair du monde</i>), seen in his last incomplete work, <i>The Visible and Invisible</i>, and his last published essay, “Eye and Mind”.</p>",
+                        "intro": "<p><b>Maurice Merleau-Ponty</b> (<small>French:&#160;</small><span><a href=\"https://en.wikipedia.org/wiki/Help:IPA_for_French\">[mɔʁis mɛʁlo pɔ̃ti]</a></span>; 14 March 1908 – 3 May 1961) was a French <a href=\"https://en.wikipedia.org/wiki/Phenomenology_(philosophy)\">phenomenological</a> <a href=\"https://en.wikipedia.org/wiki/Philosopher\">philosopher</a>, strongly influenced by <a href=\"https://en.wikipedia.org/wiki/Edmund_Husserl\">Edmund Husserl</a> and <a href=\"https://en.wikipedia.org/wiki/Martin_Heidegger\">Martin Heidegger</a>. The constitution of meaning in human experience was his main interest and he wrote on perception, art, and politics. He was on the editorial board of <i><a href=\"https://en.wikipedia.org/wiki/Les_Temps_modernes\">Les Temps modernes</a></i>, the leftist magazine created by <a href=\"https://en.wikipedia.org/wiki/Jean-Paul_Sartre\">Jean-Paul Sartre</a> in 1945.</p>\n<p>At the core of Merleau-Ponty's philosophy is a sustained argument for the foundational role perception plays in understanding the world as well as engaging with the world. Like the other major phenomenologists, Merleau-Ponty expressed his philosophical insights in writings on art, literature, linguistics, and politics. He was the only major phenomenologist of the first half of the twentieth century to engage extensively with the sciences and especially with <a href=\"https://en.wikipedia.org/wiki/Descriptive_psychology\">descriptive psychology</a>. It is through this engagement that his writings have become influential in the recent project of naturalizing phenomenology, in which phenomenologists use the results of <a href=\"https://en.wikipedia.org/wiki/Psychology\">psychology</a> and <a href=\"https://en.wikipedia.org/wiki/Cognitive_science\">cognitive science</a>.</p>\n<p>Merleau-Ponty emphasized the body as the primary site of knowing the world, a corrective to the long philosophical tradition of placing consciousness as the source of knowledge, and maintained that the body and that which it perceived could not be disentangled from each other. The articulation of the primacy of embodiment led him away from phenomenology towards what he was to call “indirect ontology” or the ontology of “the flesh of the world” (<i>la chair du monde</i>), seen in his last incomplete work, <i>The Visible and Invisible</i>, and his last published essay, “Eye and Mind”.</p>",
                         "title": "Maurice Merleau-Ponty"
                     }
                 },
@@ -3261,10 +3270,10 @@
                     "id": 230,
                     "language_code": "fr",
                     "name": "Augustin Marie d'Aboville",
-                    "sorting_name": "Aboville, Augustin Marie d",
+                    "sorting_name": "Aboville, Augustin Marie d'",
                     "wikipedia": {
                         "id": 257,
-                        "intro": "<p>Le baron <b>Augustin Marie d'Aboville</b>, né le <time><a href=\"https://fr.wikipedia.org/wiki/20_avril\">20</a> <a href=\"https://fr.wikipedia.org/wiki/Avril_1776\">avril</a> <a href=\"https://fr.wikipedia.org/wiki/1776\">1776</a></time> à <a href=\"https://fr.wikipedia.org/wiki/La_F%C3%A8re\">La Fère</a> (<a href=\"https://fr.wikipedia.org/wiki/Aisne_(d%C3%A9partement)\">Aisne</a>), et mort le <time><a href=\"https://fr.wikipedia.org/wiki/20_juin\">20</a> <a href=\"https://fr.wikipedia.org/wiki/Juin_1843\">juin</a> <a href=\"https://fr.wikipedia.org/wiki/1843\">1843</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Paris\">Paris</a>, inhumé au <a href=\"https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise\">cimetière du Père-Lachaise</a> (division 25), second fils du comte <a href=\"https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Marie_d%27Aboville\">François Marie d'Aboville</a>, est un <a href=\"https://fr.wikipedia.org/wiki/Liste_des_g%C3%A9n%C3%A9raux_de_la_R%C3%A9volution_et_du_Premier_Empire\">général d'artillerie français du Premier Empire</a>.</p>",
+                        "intro": "<p>Le baron <b>Augustin Marie d'Aboville</b>, né le <time><a href=\"https://fr.wikipedia.org/wiki/20_avril\">20</a> <a href=\"https://fr.wikipedia.org/wiki/Avril_1776\">avril</a> <a href=\"https://fr.wikipedia.org/wiki/1776\">1776</a></time> à <a href=\"https://fr.wikipedia.org/wiki/La_F%C3%A8re\">La Fère</a> dans l'<a href=\"https://fr.wikipedia.org/wiki/Aisne_(d%C3%A9partement)\">Aisne</a> et mort le <time><a href=\"https://fr.wikipedia.org/wiki/20_juin\">20</a> <a href=\"https://fr.wikipedia.org/wiki/Juin_1843\">juin</a> <a href=\"https://fr.wikipedia.org/wiki/1843\">1843</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Paris\">Paris</a>, inhumé au <a href=\"https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise\">cimetière du Père-Lachaise</a> (division 25), est un <a href=\"https://fr.wikipedia.org/wiki/Liste_des_g%C3%A9n%C3%A9raux_de_la_R%C3%A9volution_et_du_Premier_Empire\">général d'artillerie français du Premier Empire</a>. Il est le second fils du comte <a href=\"https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Marie_d%27Aboville\">François Marie d'Aboville</a>.</p>",
                         "title": "Augustin Marie d'Aboville"
                     }
                 }
@@ -4367,7 +4376,7 @@
                     "sorting_name": "Aboville",
                     "wikipedia": {
                         "id": 306,
-                        "intro": "<p>La famille <b>d'Aboville</b> est une famille de la <a href=\"https://fr.wikipedia.org/wiki/Familles_subsistantes_de_la_noblesse_fran%C3%A7aise\">noblesse française subsistante</a>.</p>",
+                        "intro": "<p>La famille <b>d'Aboville</b> est une <a href=\"https://fr.wikipedia.org/wiki/Familles_subsistantes_de_la_noblesse_fran%C3%A7aise_(A_%C3%A0_K)\">famille subsistante de la noblesse française</a>, originaire du <a href=\"https://fr.wikipedia.org/wiki/Cotentin\">Cotentin</a> (<a href=\"https://fr.wikipedia.org/wiki/Normandie\">Normandie</a>).</p>\n<p>Elle fut maintenue noble en 1666 par <a href=\"https://fr.wikipedia.org/wiki/Guy_Chamillart\">Guy Chamillart</a> dans la <a href=\"https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ralit%C3%A9_de_Caen\">Généralité de Caen</a>.</p>\n<p>La famille d'Aboville a produit de nombreux officiers.</p>",
                         "title": "Famille d'Aboville"
                     }
                 }
@@ -5561,6 +5570,56 @@
             "wikidata_id": "Q3323379"
         },
         {
+            "localizations": [
+                {
+                    "description": "",
+                    "id": 551,
+                    "language_code": "en",
+                    "name": "La Fontaine's tomb",
+                    "sorting_name": "La Fontaine's tomb",
+                    "wikipedia": null
+                },
+                {
+                    "description": "sculpture française",
+                    "id": 552,
+                    "language_code": "fr",
+                    "name": "monument funéraire de La Fontaine",
+                    "sorting_name": "Monument funeraire de Moliere",
+                    "wikipedia": {
+                        "id": 497,
+                        "intro": "<p>Le <b>monument funéraire de La Fontaine</b> est un <a href=\"https://fr.wikipedia.org/wiki/Monument_fun%C3%A9raire\">monument funéraire</a> remarquable du <a href=\"https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise\">cimetière du Père-Lachaise</a> contenant la dépouille de <a href=\"https://fr.wikipedia.org/wiki/Jean_de_La_Fontaine\">Jean de La Fontaine</a>. Il a été classé aux <a href=\"https://fr.wikipedia.org/wiki/Monument_historique_(France)\">monuments historiques</a> par un <a href=\"https://fr.wikipedia.org/wiki/Arr%C3%AAt%C3%A9_en_France\">arrêté</a> du <time><a href=\"https://fr.wikipedia.org/wiki/14_novembre\">14</a> <a href=\"https://fr.wikipedia.org/wiki/Novembre_1983\">novembre</a> <a href=\"https://fr.wikipedia.org/wiki/1983\">1983</a></time>.</p>",
+                        "title": "Monument funéraire de La Fontaine"
+                    }
+                }
+            ],
+            "wikidata_id": "Q3323381"
+        },
+        {
+            "localizations": [
+                {
+                    "description": "",
+                    "id": 549,
+                    "language_code": "en",
+                    "name": "Molière's tomb",
+                    "sorting_name": "Molière's tomb",
+                    "wikipedia": null
+                },
+                {
+                    "description": "tombeau dans le 20e arrondissement de Paris",
+                    "id": 550,
+                    "language_code": "fr",
+                    "name": "monument funéraire de Molière",
+                    "sorting_name": "Monument funeraire de Moliere",
+                    "wikipedia": {
+                        "id": 498,
+                        "intro": "<p>Le <b>monument funéraire de Molière</b> est un <a href=\"https://fr.wikipedia.org/wiki/Monument_fun%C3%A9raire\">monument funéraire</a> remarquable du <a href=\"https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise\">cimetière du Père-Lachaise</a> contenant la dépouille de <a href=\"https://fr.wikipedia.org/wiki/Moli%C3%A8re\">Molière</a>. Il a été classé aux <a href=\"https://fr.wikipedia.org/wiki/Monument_historique_(France)\">monuments historiques</a> par un <a href=\"https://fr.wikipedia.org/wiki/Arr%C3%AAt%C3%A9_en_France\">arrêté</a> du <time><a href=\"https://fr.wikipedia.org/wiki/14_novembre\">14</a> <a href=\"https://fr.wikipedia.org/wiki/Novembre_1983\">novembre</a> <a href=\"https://fr.wikipedia.org/wiki/1983\">1983</a></time>.</p>",
+                        "title": "Monument funéraire de Molière"
+                    }
+                }
+            ],
+            "wikidata_id": "Q3323385"
+        },
+        {
             "date_of_birth": "1766-10-23",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1847-05-29",
@@ -6069,7 +6128,7 @@
                     "sorting_name": "Daumier, Sophie",
                     "wikipedia": {
                         "id": 460,
-                        "intro": "<p>Élisabeth Simone Juliette Clémence Hugon, dite <i>Betty Hugon</i>, <i>Betty Laurent</i>, <i>Betty Daumier</i> et plus connue sous le nom de scène <i><b>Sophie Daumier</b></i>, est une <a href=\"https://fr.wikipedia.org/wiki/Cin%C3%A9ma\">comédienne</a> <a href=\"https://fr.wikipedia.org/wiki/France\">française</a> née le <time><a href=\"https://fr.wikipedia.org/wiki/24_novembre\">24</a> <a href=\"https://fr.wikipedia.org/wiki/Novembre_1934\">novembre</a> <a href=\"https://fr.wikipedia.org/wiki/1934\">1934</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Boulogne-sur-Mer\">Boulogne-sur-Mer</a> et morte de la <a href=\"https://fr.wikipedia.org/wiki/Maladie_de_Huntington\">maladie de Huntington</a> le <time><a href=\"https://fr.wikipedia.org/wiki/31_d%C3%A9cembre\">31</a> <a href=\"https://fr.wikipedia.org/wiki/D%C3%A9cembre_2003\">décembre</a> <a href=\"https://fr.wikipedia.org/wiki/2003\">2003</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Paris\">Paris</a> (<a href=\"https://fr.wikipedia.org/wiki/11e_arrondissement_de_Paris\">11<sup>e</sup></a>).</p>",
+                        "intro": "<p>Élisabeth Simone Juliette Clémence Hugon, dite <i>Betty Hugon</i>, <i>Betty Laurent</i>, <i>Betty Daumier</i> et plus connue sous le nom de scène <b>Sophie Daumier</b>, est une <a href=\"https://fr.wikipedia.org/wiki/Cin%C3%A9ma\">comédienne</a> <a href=\"https://fr.wikipedia.org/wiki/France\">française</a> née le <time><a href=\"https://fr.wikipedia.org/wiki/24_novembre\">24</a> <a href=\"https://fr.wikipedia.org/wiki/Novembre_1934\">novembre</a> <a href=\"https://fr.wikipedia.org/wiki/1934\">1934</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Boulogne-sur-Mer\">Boulogne-sur-Mer</a> et morte de la <a href=\"https://fr.wikipedia.org/wiki/Maladie_de_Huntington\">maladie de Huntington</a> le <time><a href=\"https://fr.wikipedia.org/wiki/31_d%C3%A9cembre\">31</a> <a href=\"https://fr.wikipedia.org/wiki/D%C3%A9cembre_2003\">décembre</a> <a href=\"https://fr.wikipedia.org/wiki/2003\">2003</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Paris\">Paris</a> (<a href=\"https://fr.wikipedia.org/wiki/11e_arrondissement_de_Paris\">11<sup>e</sup></a>).</p>",
                         "title": "Sophie Daumier"
                     }
                 }
@@ -6610,7 +6669,7 @@
                     "sorting_name": "Bashung, Alain",
                     "wikipedia": {
                         "id": 228,
-                        "intro": "<p><b>Alain Bashung</b>, né <b>Alain Baschung</b> (Paris,&#160;<time><a href=\"https://fr.wikipedia.org/wiki/1er_d%C3%A9cembre\">1<sup>er</sup></a> <a href=\"https://fr.wikipedia.org/wiki/D%C3%A9cembre_1947\">décembre</a> <a href=\"https://fr.wikipedia.org/wiki/1947\">1947</a></time> – Paris,&#160;<time><a href=\"https://fr.wikipedia.org/wiki/14_mars\">14</a> <a href=\"https://fr.wikipedia.org/wiki/Mars_2009\">mars</a> <a href=\"https://fr.wikipedia.org/wiki/2009\">2009</a></time>), est un <a href=\"https://fr.wikipedia.org/wiki/Auteur-compositeur-interpr%C3%A8te\">auteur-compositeur-interprète</a> et comédien <a href=\"https://fr.wikipedia.org/wiki/France\">français</a> d'origines <a href=\"https://fr.wikipedia.org/wiki/Bretagne\">bretonne</a> et <a href=\"https://fr.wikipedia.org/wiki/Alg%C3%A9rie\">algérienne</a>. Il est devenu une figure importante de la <a href=\"https://fr.wikipedia.org/wiki/Chanson_fran%C3%A7aise\">chanson</a> et du <a href=\"https://fr.wikipedia.org/wiki/Rock_fran%C3%A7ais\">rock français</a> à partir du début des <a href=\"https://fr.wikipedia.org/wiki/Ann%C3%A9es_1980\">années 1980</a> et a influencé un grand nombre de chanteurs de la nouvelle scène française. Il est le chanteur le plus primé aux <a href=\"https://fr.wikipedia.org/wiki/Victoires_de_la_musique\">Victoires de la musique</a> avec 12 victoires obtenues tout au long de sa carrière.</p>",
+                        "intro": "<p><b>Alain Bashung</b>, né <b>Alain Baschung</b>, né le <time><a href=\"https://fr.wikipedia.org/wiki/1er_d%C3%A9cembre\">1<sup>er</sup></a> <a href=\"https://fr.wikipedia.org/wiki/D%C3%A9cembre_1947\">décembre</a> <a href=\"https://fr.wikipedia.org/wiki/1947\">1947</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Paris\">Paris</a> et mort dans cette même ville le <time><a href=\"https://fr.wikipedia.org/wiki/14_mars\">14</a> <a href=\"https://fr.wikipedia.org/wiki/Mars_2009\">mars</a> <a href=\"https://fr.wikipedia.org/wiki/2009\">2009</a></time>, est un <a href=\"https://fr.wikipedia.org/wiki/Auteur-compositeur-interpr%C3%A8te\">auteur-compositeur-interprète</a> et comédien <a href=\"https://fr.wikipedia.org/wiki/France\">français</a> d'origines <a href=\"https://fr.wikipedia.org/wiki/Bretagne\">bretonne</a> et <a href=\"https://fr.wikipedia.org/wiki/Alg%C3%A9rie\">algérienne</a>. Il est devenu une figure importante de la <a href=\"https://fr.wikipedia.org/wiki/Chanson_fran%C3%A7aise\">chanson</a> et du <a href=\"https://fr.wikipedia.org/wiki/Rock_fran%C3%A7ais\">rock français</a> à partir du début des <a href=\"https://fr.wikipedia.org/wiki/Ann%C3%A9es_1980\">années 1980</a> et a influencé un grand nombre de chanteurs de la nouvelle scène française. Il est le chanteur le plus primé aux <a href=\"https://fr.wikipedia.org/wiki/Victoires_de_la_musique\">Victoires de la musique</a> avec 12 victoires obtenues tout au long de sa carrière.</p>",
                         "title": "Alain Bashung"
                     }
                 }
@@ -6953,7 +7012,7 @@
                     "sorting_name": "Denon, Vivant",
                     "wikipedia": {
                         "id": 52,
-                        "intro": "<p><b>Dominique Vivant, Baron Denon</b> (4 January 1747 – 27 April 1825) was a French artist, writer, <a href=\"https://en.wikipedia.org/wiki/Diplomat\">diplomat</a>, author, and <a href=\"https://en.wikipedia.org/wiki/Archaeologist\">archaeologist</a>. He was appointed as the first Director of the <a href=\"https://en.wikipedia.org/wiki/Louvre\">Louvre</a> museum by <a href=\"https://en.wikipedia.org/wiki/Napoleon\">Napoleon</a> after the <a href=\"https://en.wikipedia.org/wiki/French_campaign_in_Egypt_and_Syria\">Egyptian campaign</a> of 1798–1801, and is commemorated in the Denon Wing of the modern museum. His two-volume <i>Voyage dans la basse et la haute Egypte</i> (\"Journey in Lower and Upper Egypt\"), 1802, was the foundation of modern <a href=\"https://en.wikipedia.org/wiki/Egyptology\">Egyptology</a>.</p>",
+                        "intro": "<p><b>Dominique Vivant, Baron Denon</b> (4 January 1747&#160;– 27 April 1825) was a French artist, writer, <a href=\"https://en.wikipedia.org/wiki/Diplomat\">diplomat</a>, author, and <a href=\"https://en.wikipedia.org/wiki/Archaeologist\">archaeologist</a>. He was appointed as the first Director of the <a href=\"https://en.wikipedia.org/wiki/Louvre\">Louvre</a> museum by <a href=\"https://en.wikipedia.org/wiki/Napoleon\">Napoleon</a> after the <a href=\"https://en.wikipedia.org/wiki/French_campaign_in_Egypt_and_Syria\">Egyptian campaign</a> of 1798–1801, and is commemorated in the Denon Wing of the modern museum. His two-volume <i>Voyage dans la basse et la haute Egypte</i> (\"Journey in Lower and Upper Egypt\"), 1802, was the foundation of modern <a href=\"https://en.wikipedia.org/wiki/Egyptology\">Egyptology</a>.</p>",
                         "title": "Vivant Denon"
                     }
                 },
@@ -7037,39 +7096,6 @@
                 }
             ],
             "wikidata_id": "Q483512"
-        },
-        {
-            "date_of_birth": "1621-07-08",
-            "date_of_birth_accuracy": "Day",
-            "date_of_death": "1695-04-13",
-            "date_of_death_accuracy": "Day",
-            "localizations": [
-                {
-                    "description": "French poet, fabulist and writer",
-                    "id": 63,
-                    "language_code": "en",
-                    "name": "Jean de La Fontaine",
-                    "sorting_name": "La Fontaine, Jean De",
-                    "wikipedia": {
-                        "id": 126,
-                        "intro": "<p><b>Jean de La Fontaine</b> (<small>IPA:&#160;</small><span><a href=\"https://en.wikipedia.org/wiki/Help:IPA_for_French\">[ʒɑ̃ də la fɔ̃tɛn]</a></span>; 8 July 1621&#160;– 13 April 1695) was the most famous French <a href=\"https://en.wikipedia.org/wiki/Fable\">fabulist</a> and one of the most widely read French poets of the 17th century. He is known above all for his <i><a href=\"https://en.wikipedia.org/wiki/La_Fontaine%27s_Fables\">Fables</a></i>, which provided a model for subsequent <a href=\"https://en.wikipedia.org/wiki/Fable\">fabulists</a> across Europe and numerous alternative versions in France, and in French regional languages.</p>\n<p>According to <a href=\"https://en.wikipedia.org/wiki/Gustave_Flaubert\">Flaubert</a>, he was the only French poet to understand and master the texture of the <a href=\"https://en.wikipedia.org/wiki/French_language\">French language</a> before <a href=\"https://en.wikipedia.org/wiki/Victor_Hugo\">Victor Hugo</a>. A set of <a href=\"https://en.wikipedia.org/wiki/Postage_stamp\">postage stamps</a> celebrating La Fontaine and the <i>Fables</i> was issued by France in 1995.</p>",
-                        "title": "Jean de La Fontaine"
-                    }
-                },
-                {
-                    "description": "poète, fabuliste et écrivain français",
-                    "id": 64,
-                    "language_code": "fr",
-                    "name": "Jean de La Fontaine",
-                    "sorting_name": "Lafontaine, Jean de",
-                    "wikipedia": {
-                        "id": 370,
-                        "intro": "<p><b>Jean de La Fontaine</b> (né le <time><a href=\"https://fr.wikipedia.org/wiki/8_juillet\">8 juillet</a> <a href=\"https://fr.wikipedia.org/wiki/1621\">1621</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Ch%C3%A2teau-Thierry\">Château-Thierry</a>, et mort le <time><a href=\"https://fr.wikipedia.org/wiki/13_avril\">13 avril</a> <a href=\"https://fr.wikipedia.org/wiki/1695\">1695</a></time> à <a href=\"https://fr.wikipedia.org/wiki/Paris\">Paris</a>) est un <a href=\"https://fr.wikipedia.org/wiki/Po%C3%A8te\">poète</a> <a href=\"https://fr.wikipedia.org/wiki/France\">français</a> de grande renommée, principalement pour ses <i><a href=\"https://fr.wikipedia.org/wiki/Fables_de_La_Fontaine\">Fables</a></i> et dans une moindre mesure ses <a href=\"https://fr.wikipedia.org/wiki/Conte\">contes</a> licencieux. On lui doit également des poèmes divers, des pièces de théâtre et des livrets d'opéra qui confirment son ambition de <a href=\"https://fr.wikipedia.org/wiki/Moraliste\">moraliste</a>.</p>\n<p>Proche de <a href=\"https://fr.wikipedia.org/wiki/Nicolas_Fouquet\">Nicolas Fouquet</a>, Jean de La Fontaine reste à l'écart de la cour royale mais fréquente les salons comme celui de <a href=\"https://fr.wikipedia.org/wiki/Marguerite_Hessein_de_La_Sabli%C3%A8re\">Madame de La Sablière</a> et malgré des oppositions, il est reçu à l'<a href=\"https://fr.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise\">Académie française</a> en <a href=\"https://fr.wikipedia.org/wiki/1684\">1684</a>. Mêlé aux débats de l'époque, il se range dans le parti des Anciens dans la fameuse <a href=\"https://fr.wikipedia.org/wiki/Querelle_des_Anciens_et_des_Modernes\">Querelle des Anciens et des Modernes</a>.</p>\n<p>C'est en effet en s'inspirant des <a href=\"https://fr.wikipedia.org/wiki/Fabuliste\">fabulistes</a> de l'<a href=\"https://fr.wikipedia.org/wiki/Gr%C3%A8ce_antique\">Antiquité gréco-latine</a> et en particulier d'<a href=\"https://fr.wikipedia.org/wiki/%C3%89sope\">Ésope</a>, qu'il écrit les <i>Fables</i> qui font sa renommée. Le premier recueil qui correspond aux livres I à VI des éditions actuelles est publié en <a href=\"https://fr.wikipedia.org/wiki/1668\">1668</a>, le deuxième (livres VII à XI) en <a href=\"https://fr.wikipedia.org/wiki/1678\">1678</a>, et le dernier (livre XII actuel) est daté de <a href=\"https://fr.wikipedia.org/wiki/1694\">1694</a>. Le brillant maniement des <a href=\"https://fr.wikipedia.org/wiki/Vers\">vers</a> et la visée morale des textes, parfois plus complexes qu'il n'y paraît à la première lecture, ont déterminé le succès de cette œuvre à part et les <i><a href=\"https://fr.wikipedia.org/wiki/Fables_de_La_Fontaine\">Fables de La Fontaine</a></i> sont toujours considérées comme un des plus grands chefs-d’œuvre de la <a href=\"https://fr.wikipedia.org/wiki/Litt%C3%A9rature_fran%C3%A7aise\">littérature française</a>. Le <a href=\"https://fr.wikipedia.org/wiki/Fabuliste\">fabuliste</a> a éclipsé le conteur d'autant que le souci moralisant a mis dans l’ombre les <a href=\"https://fr.wikipedia.org/wiki/Conte\">contes</a> licencieux publiés entre 1665 et 1674.</p>",
-                        "title": "Jean de La Fontaine"
-                    }
-                }
-            ],
-            "wikidata_id": "Q49496"
         },
         {
             "date_of_birth": "1764-03-08",
@@ -7755,39 +7781,6 @@
                 }
             ],
             "wikidata_id": "Q682230"
-        },
-        {
-            "date_of_birth": "1622-01-15",
-            "date_of_birth_accuracy": "Day",
-            "date_of_death": "1673-02-17",
-            "date_of_death_accuracy": "Day",
-            "localizations": [
-                {
-                    "description": "French playwright and actor",
-                    "id": 411,
-                    "language_code": "en",
-                    "name": "Molière",
-                    "sorting_name": "Moliere",
-                    "wikipedia": {
-                        "id": 176,
-                        "intro": "<p><b>Jean-Baptiste Poquelin</b>, known by his stage name <b>Molière</b> (<span><span><a href=\"https://en.wikipedia.org/wiki/Help:IPA_for_English\">/<span><span>m</span><span>oʊ</span><span>l</span><span>ˈ</span><span>j</span><span>ɛər</span></span>/</a></span></span>; <small>French:&#160;</small><span><a href=\"https://en.wikipedia.org/wiki/Help:IPA_for_French\">[mɔ.ljɛːʁ]</a></span>; 15 January 1622 – 17 February 1673), was a French playwright and actor who is considered to be one of the greatest masters of comedy in Western literature. Among Molière's best known works are <i><a href=\"https://en.wikipedia.org/wiki/The_Misanthrope\">The Misanthrope</a></i>, <i><a href=\"https://en.wikipedia.org/wiki/The_School_for_Wives\">The School for Wives</a></i>, <i><a href=\"https://en.wikipedia.org/wiki/Tartuffe\">Tartuffe</a></i>, <i><a href=\"https://en.wikipedia.org/wiki/The_Miser\">The Miser</a></i>, <i><a href=\"https://en.wikipedia.org/wiki/The_Imaginary_Invalid\">The Imaginary Invalid</a></i>, and <i><a href=\"https://en.wikipedia.org/wiki/The_Bourgeois_Gentleman\">The Bourgeois Gentleman</a></i>.</p>\n<p>Born into a prosperous family and having studied at the Collège de Clermont (now <a href=\"https://en.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand\">Lycée Louis-le-Grand</a>), Molière was well suited to begin a life in the theatre. Thirteen years as an itinerant actor helped him polish his comic abilities while he began writing, combining <a href=\"https://en.wikipedia.org/wiki/Commedia_dell%27arte\">Commedia dell'arte</a> elements with the more refined French comedy.</p>\n<p>Through the patronage of aristocrats including <a href=\"https://en.wikipedia.org/wiki/Philippe_I,_Duke_of_Orl%C3%A9ans\">Philippe I, Duke of Orléans</a>—the brother of <a href=\"https://en.wikipedia.org/wiki/Louis_XIV\">Louis XIV</a>—Molière procured a command performance before the King at the <a href=\"https://en.wikipedia.org/wiki/Louvre\">Louvre</a>. Performing a classic play by <a href=\"https://en.wikipedia.org/wiki/Pierre_Corneille\">Pierre Corneille</a> and a <a href=\"https://en.wikipedia.org/wiki/Farce\">farce</a> of his own, <i>The Doctor in Love</i>, Molière was granted the use of salle du <a href=\"https://en.wikipedia.org/wiki/Petit-Bourbon\">Petit-Bourbon</a> near the Louvre, a spacious room appointed for theatrical performances. Later, Molière was granted the use of the <a href=\"https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_du_Palais-Royal_(rue_Saint-Honor%C3%A9)\">theatre in the Palais-Royal</a>. In both locations he found success among Parisians with plays such as <i><a href=\"https://en.wikipedia.org/wiki/The_Affected_Ladies\">The Affected Ladies</a></i>, <i><a href=\"https://en.wikipedia.org/wiki/The_School_for_Husbands\">The School for Husbands</a></i> and <i>The School for Wives</i>. This royal favour brought a royal <a href=\"https://en.wikipedia.org/wiki/Pension\">pension</a> to his <a>troupe</a> and the title <i>Troupe du Roi</i> (\"The King's Troupe\"). Molière continued as the official author of court entertainments.</p>\n<p>Though he received the adulation of the court and Parisians, Molière's satires attracted criticism from moralists and the Catholic Church. <i><a href=\"https://en.wikipedia.org/wiki/Tartuffe\">Tartuffe</a></i> and its attack on perceived religious hypocrisy roundly received condemnations from the Church, while <i><a href=\"https://en.wikipedia.org/wiki/Dom_Juan\">Don Juan</a></i> was banned from performance. Molière's hard work in so many theatrical capacities took its toll on his health and, by 1667, he was forced to take a break from the stage. In 1673, during a production of his final play, <i>The Imaginary Invalid</i>, Molière, who suffered from pulmonary <a href=\"https://en.wikipedia.org/wiki/Tuberculosis\">tuberculosis</a>, was seized by a coughing fit and a haemorrhage while playing the <a href=\"https://en.wikipedia.org/wiki/Hypochondriac\">hypochondriac</a> Argan. He finished the performance but collapsed again and died a few hours later.</p>",
-                        "title": "Molière"
-                    }
-                },
-                {
-                    "description": "dramaturge et comédien français",
-                    "id": 412,
-                    "language_code": "fr",
-                    "name": "Molière",
-                    "sorting_name": "Moliere",
-                    "wikipedia": {
-                        "id": 423,
-                        "intro": "<p><b>Jean-Baptiste Poquelin</b>, dit <b>Molière</b>, <a href=\"https://fr.wikipedia.org/wiki/Bapt%C3%AAme_catholique\">baptisé</a> le <time><a href=\"https://fr.wikipedia.org/wiki/15_janvier\">15 janvier</a> <a href=\"https://fr.wikipedia.org/wiki/1622_au_th%C3%A9%C3%A2tre\">1622</a></time> en <a href=\"https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Eustache_de_Paris\">l'église Saint-Eustache</a> à Paris, et mort dans sa maison de la <a href=\"https://fr.wikipedia.org/wiki/Rue_de_Richelieu\">rue de Richelieu</a> le <time><a href=\"https://fr.wikipedia.org/wiki/17_f%C3%A9vrier\">17 février</a> <a href=\"https://fr.wikipedia.org/wiki/1673\">1673</a></time>, est un <a href=\"https://fr.wikipedia.org/wiki/Acteur\">comédien</a> et <a href=\"https://fr.wikipedia.org/wiki/Dramaturge\">dramaturge</a> français. Considéré de son vivant comme le meilleur acteur et auteur comique du royaume, et depuis sa mort comme l'un des génies de la <a href=\"https://fr.wikipedia.org/wiki/Litt%C3%A9rature_universelle\">littérature universelle</a>, il fut également l'un des fondateurs et le principal animateur d'une troupe de <a href=\"https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre\">théâtre</a>, qui, après s'être illustrée à Paris et en province sous la régence d'<a href=\"https://fr.wikipedia.org/wiki/Anne_d%27Autriche_(1601-1666)\">Anne d'Autriche</a> et dans les douze premières années du règne personnel de <a href=\"https://fr.wikipedia.org/wiki/Louis_XIV_de_France\">Louis XIV</a>, fut à l'origine de l'actuelle <a href=\"https://fr.wikipedia.org/wiki/Com%C3%A9die-Fran%C3%A7aise\">Comédie-Française</a>.</p>\n<p>Tout en s'attachant à la peinture des mœurs de son temps, et singulièrement de la <a href=\"https://fr.wikipedia.org/wiki/Bourgeoisie\">bourgeoisie</a>, dont il dénonce les travers (prétention nobiliaire, place des femmes, mariage d'intérêt…) pour la plus grande satisfaction d'un public essentiellement «mondain», Molière a créé des personnages individualisés, à la psychologie complexe, qui sont rapidement devenus des archétypes.</p>\n<p>Le meilleur de son œuvre, composée d'une trentaine de comédies, accompagnées ou non d'entrées de ballet et de musique, constitue depuis deux siècles l'un des piliers de l'enseignement littéraire en France. Signe de la place emblématique qu'il occupe, le français est couramment désigné comme <span>«&#160;la langue de Molière&#160;»</span>, de même que l'anglais est <span>«&#160;la langue de Shakespeare&#160;»</span>.\n<span>Erreur de référence&#160;: Des balises <code>&lt;ref&gt;</code> existent pour un groupe nommé « n », mais aucune balise <code>&lt;references group=\"n\"/&gt;</code> correspondante n’a été trouvée, ou bien une balise fermante <code>&lt;/ref&gt;</code> manque.</span></p>",
-                        "title": "Molière"
-                    }
-                }
-            ],
-            "wikidata_id": "Q687"
         },
         {
             "date_of_birth": "1732-01-24",

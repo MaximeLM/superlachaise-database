@@ -744,17 +744,17 @@
             "id": 23,
             "localizations": [
                 {
-                    "description": "French musician",
+                    "description": "",
                     "id": 45,
                     "language_code": "en",
-                    "name": "Gilbert Bécaud",
+                    "name": "Gilbert Bécaud's tomb",
                     "sorting_name": "Bécaud"
                 },
                 {
-                    "description": "chanteur, compositeur, pianiste et acteur français",
+                    "description": "tombe du chanteur, compositeur, pianiste et acteur français",
                     "id": 46,
                     "language_code": "fr",
-                    "name": "Gilbert Bécaud",
+                    "name": "tombe de Gilbert Bécaud",
                     "sorting_name": "Bécaud"
                 }
             ],
@@ -767,20 +767,17 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "music"
-                },
-                {
-                    "code": "men"
+                    "code": "other"
                 }
             ],
             "wikidata_entries": {
                 "artists": [],
-                "others": [],
-                "persons": [
+                "others": [
                     {
-                        "wikidata_id": "Q160433"
+                        "wikidata_id": "Q15168755"
                     }
-                ]
+                ],
+                "persons": []
             },
             "wikimedia_commons_category": {
                 "wikimedia_commons_id": "Category:Grave of Gilbert Bécaud"
@@ -4767,7 +4764,7 @@
                     "sorting_name": "Méliès"
                 },
                 {
-                    "description": "réalisateur de films français",
+                    "description": "inéaste, acteur, producteur, réalisateur, prestidigitateur et illusionniste français, pionnier et inventeur du spectacle cinématographique",
                     "id": 324,
                     "language_code": "fr",
                     "name": "Georges Méliès",
@@ -6246,7 +6243,7 @@
             }
         },
         {
-            "burial_plot_reference": "25",
+            "burial_plot_reference": "",
             "date_of_birth": "1621-07-08",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1695-04-13",
@@ -6254,17 +6251,17 @@
             "id": 144,
             "localizations": [
                 {
-                    "description": "French poet, fabulist and writer",
+                    "description": "",
                     "id": 287,
                     "language_code": "en",
-                    "name": "Jean de La Fontaine",
-                    "sorting_name": "La Fontaine, Jean De"
+                    "name": "La Fontaine's tomb",
+                    "sorting_name": "La Fontaine"
                 },
                 {
-                    "description": "poète, fabuliste et écrivain français",
+                    "description": "sculpture française",
                     "id": 288,
                     "language_code": "fr",
-                    "name": "Jean de La Fontaine",
+                    "name": "Monument funéraire de La Fontaine",
                     "sorting_name": "La Fontaine"
                 }
             ],
@@ -6277,27 +6274,24 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "literature"
-                },
-                {
-                    "code": "men"
+                    "code": "other"
                 }
             ],
             "wikidata_entries": {
                 "artists": [],
-                "others": [],
-                "persons": [
+                "others": [
                     {
-                        "wikidata_id": "Q49496"
+                        "wikidata_id": "Q3323381"
                     }
-                ]
+                ],
+                "persons": []
             },
             "wikimedia_commons_category": {
                 "wikimedia_commons_id": "Category:Grave of Jean de La Fontaine"
             }
         },
         {
-            "burial_plot_reference": "25",
+            "burial_plot_reference": "",
             "date_of_birth": "1622-01-15",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1673-02-17",
@@ -6305,17 +6299,17 @@
             "id": 167,
             "localizations": [
                 {
-                    "description": "French playwright and actor",
+                    "description": "",
                     "id": 333,
                     "language_code": "en",
-                    "name": "Molière",
+                    "name": "Molière's tomb",
                     "sorting_name": "Molière"
                 },
                 {
-                    "description": "dramaturge et comédien français",
+                    "description": "tombeau dans le 20e arrondissement de Paris",
                     "id": 334,
                     "language_code": "fr",
-                    "name": "Molière",
+                    "name": "Monument funéraire de Molière",
                     "sorting_name": "Molière"
                 }
             ],
@@ -6328,26 +6322,17 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "literature"
-                },
-                {
-                    "code": "medias"
-                },
-                {
-                    "code": "theatre"
-                },
-                {
-                    "code": "men"
+                    "code": "other"
                 }
             ],
             "wikidata_entries": {
                 "artists": [],
-                "others": [],
-                "persons": [
+                "others": [
                     {
-                        "wikidata_id": "Q687"
+                        "wikidata_id": "Q3323385"
                     }
-                ]
+                ],
+                "persons": []
             },
             "wikimedia_commons_category": {
                 "wikimedia_commons_id": "Category:Grave of Molière"
@@ -7916,7 +7901,11 @@
             ],
             "wikidata_entries": {
                 "artists": [],
-                "others": [],
+                "others": [
+                    {
+                        "wikidata_id": "Q15168424"
+                    }
+                ],
                 "persons": [
                     {
                         "wikidata_id": "Q380045"
@@ -11492,7 +11481,7 @@
             "id": 73,
             "localizations": [
                 {
-                    "description": "",
+                    "description": "Nazi concentration camp",
                     "id": 145,
                     "language_code": "en",
                     "name": "Dachau concentration camp",
@@ -12430,7 +12419,7 @@
         },
         {
             "burial_plot_reference": "48",
-            "date_of_birth": "1807-12-16",
+            "date_of_birth": "1806-12-16",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1872-07-07",
             "date_of_death_accuracy": "Day",
