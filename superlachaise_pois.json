@@ -964,7 +964,7 @@
                     "sorting_name": "Fourier, Jean Baptiste Joseph"
                 },
                 {
-                    "description": "mathématicien français",
+                    "description": "mathématicien et physicien français",
                     "id": 206,
                     "language_code": "fr",
                     "name": "Joseph Fourier",
@@ -1801,6 +1801,9 @@
                 },
                 {
                     "code": "literature"
+                },
+                {
+                    "code": "music"
                 },
                 {
                     "code": "men"
@@ -3014,6 +3017,9 @@
             "superlachaise_categories": [
                 {
                     "code": "tomb"
+                },
+                {
+                    "code": "literature"
                 },
                 {
                     "code": "politics"
@@ -4286,7 +4292,7 @@
                     "sorting_name": "Nerval, Gerard De"
                 },
                 {
-                    "description": "écrivain français",
+                    "description": "poète, conteur, auteur dramatique, librettiste et journaliste français",
                     "id": 366,
                     "language_code": "fr",
                     "name": "Gérard de Nerval",
@@ -10672,7 +10678,7 @@
                     "sorting_name": "Panckoucke, Charles-Joseph"
                 },
                 {
-                    "description": "écrivain et éditeur français",
+                    "description": "écrivain, imprimeur-libraire et éditeur français",
                     "id": 386,
                     "language_code": "fr",
                     "name": "Charles-Joseph Panckoucke",
