@@ -1590,6 +1590,12 @@
             "type": "relation"
         },
         {
+            "latitude": "48.8597754",
+            "longitude": "2.3898299",
+            "openstreetmap_id": "4484134201",
+            "type": "node"
+        },
+        {
             "latitude": "48.8600225",
             "longitude": "2.3936303",
             "openstreetmap_id": "470258150",

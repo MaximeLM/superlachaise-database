@@ -2984,7 +2984,7 @@
                 ]
             },
             "wikimedia_commons_category": {
-                "wikimedia_commons_id": "Category:Grave of Pierre Georges"
+                "wikimedia_commons_id": "Category:Monument à la Brigade Fabien (Père-Lachaise, division 97)"
             }
         },
         {
@@ -4977,7 +4977,7 @@
                     "sorting_name": "Vallès"
                 },
                 {
-                    "description": "écrivain français",
+                    "description": "journaliste, écrivain, homme politique français",
                     "id": 502,
                     "language_code": "fr",
                     "name": "Jules Vallès",
@@ -8154,7 +8154,7 @@
                     "sorting_name": "Sieyès"
                 },
                 {
-                    "description": "homme politique, Révolution française et Directoire",
+                    "description": "prêtre catholique français, théoricien révolutionnaire et homme politique, Membre de l'Académie française",
                     "id": 462,
                     "language_code": "fr",
                     "name": "Emmanuel-Joseph Sieyès",
@@ -9045,7 +9045,7 @@
                     "sorting_name": "Saint-Simon, Claude"
                 },
                 {
-                    "description": "philosophe français",
+                    "description": "économiste et philosophe français",
                     "id": 446,
                     "language_code": "fr",
                     "name": "Claude-Henri de Rouvroy de Saint-Simon",
@@ -12331,7 +12331,7 @@
                     "sorting_name": "Soulié"
                 },
                 {
-                    "description": "écrivain français",
+                    "description": "journaliste, dramaturge et romancier français",
                     "id": 468,
                     "language_code": "fr",
                     "name": "Frédéric Soulié",
@@ -13500,7 +13500,7 @@
                 ]
             },
             "wikimedia_commons_category": {
-                "wikimedia_commons_id": "Category:Grave of Adolphe Thiers"
+                "wikimedia_commons_id": "Category:Grave of Thiers (Père-Lachaise, division 55)"
             }
         },
         {
@@ -13887,6 +13887,48 @@
             "wikimedia_commons_category": {
                 "wikimedia_commons_id": "Category:Grave of Delpech (Père-Lachaise, division 49)"
             }
+        },
+        {
+            "burial_plot_reference": "",
+            "date_of_birth": null,
+            "date_of_birth_accuracy": "",
+            "date_of_death": null,
+            "date_of_death_accuracy": "",
+            "id": 267,
+            "localizations": [
+                {
+                    "description": "",
+                    "id": 533,
+                    "language_code": "en",
+                    "name": "Ernest Caillat",
+                    "sorting_name": "Ernest Caillat"
+                },
+                {
+                    "description": "",
+                    "id": 534,
+                    "language_code": "fr",
+                    "name": "Ernest Caillat",
+                    "sorting_name": "Ernest Caillat"
+                }
+            ],
+            "openstreetmap_element": {
+                "openstreetmap_id": "4484134201",
+                "type": "node"
+            },
+            "superlachaise_categories": [
+                {
+                    "code": "tomb"
+                },
+                {
+                    "code": "other"
+                }
+            ],
+            "wikidata_entries": {
+                "artists": [],
+                "others": [],
+                "persons": []
+            },
+            "wikimedia_commons_category": null
         }
     ]
 }
