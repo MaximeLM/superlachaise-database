@@ -1230,7 +1230,7 @@
             "id": 11,
             "localizations": [
                 {
-                    "description": "Guatemalan poet, novelist, playwright, journalist and diplomat",
+                    "description": "Guatemalan writer and diplomat",
                     "id": 21,
                     "language_code": "en",
                     "name": "Miguel Ángel Asturias",
@@ -1798,6 +1798,9 @@
             "superlachaise_categories": [
                 {
                     "code": "tomb"
+                },
+                {
+                    "code": "cinema"
                 },
                 {
                     "code": "literature"
@@ -9076,6 +9079,9 @@
                     "code": "research"
                 },
                 {
+                    "code": "urbanism"
+                },
+                {
                     "code": "men"
                 }
             ],
@@ -11030,7 +11036,7 @@
             "burial_plot_reference": "37",
             "date_of_birth": "1765-11-17",
             "date_of_birth_accuracy": "Day",
-            "date_of_death": "1840-09-07",
+            "date_of_death": "1840-09-25",
             "date_of_death_accuracy": "Day",
             "id": 156,
             "localizations": [
