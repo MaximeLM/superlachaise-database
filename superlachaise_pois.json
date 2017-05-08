@@ -483,7 +483,7 @@
                     "sorting_name": "Chopin, Frederic"
                 },
                 {
-                    "description": "compositeur franco-polonais",
+                    "description": "compositeur et pianiste franco-polonais",
                     "id": 114,
                     "language_code": "fr",
                     "name": "Frédéric Chopin",
@@ -643,7 +643,7 @@
                     "sorting_name": "Cuvier, Georges"
                 },
                 {
-                    "description": "scientifique et écrivain français",
+                    "description": "naturaliste, zoologiste, paléontologue, historien des sciences et illustrateur français",
                     "id": 140,
                     "language_code": "fr",
                     "name": "Georges Cuvier",
@@ -744,17 +744,17 @@
             "id": 23,
             "localizations": [
                 {
-                    "description": "French musician",
+                    "description": "",
                     "id": 45,
                     "language_code": "en",
-                    "name": "Gilbert Bécaud",
+                    "name": "Gilbert Bécaud's tomb",
                     "sorting_name": "Bécaud"
                 },
                 {
-                    "description": "chanteur, compositeur, pianiste et acteur français",
+                    "description": "tombe du chanteur, compositeur, pianiste et acteur français",
                     "id": 46,
                     "language_code": "fr",
-                    "name": "Gilbert Bécaud",
+                    "name": "tombe de Gilbert Bécaud",
                     "sorting_name": "Bécaud"
                 }
             ],
@@ -767,20 +767,17 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "music"
-                },
-                {
-                    "code": "men"
+                    "code": "other"
                 }
             ],
             "wikidata_entries": {
                 "artists": [],
-                "others": [],
-                "persons": [
+                "others": [
                     {
-                        "wikidata_id": "Q160433"
+                        "wikidata_id": "Q15168755"
                     }
-                ]
+                ],
+                "persons": []
             },
             "wikimedia_commons_category": {
                 "wikimedia_commons_id": "Category:Grave of Gilbert Bécaud"
@@ -853,7 +850,7 @@
                     "sorting_name": "Balzac, Honore De"
                 },
                 {
-                    "description": "écrivain français",
+                    "description": "romancier, critique littéraire, essayiste, journaliste et écrivain français",
                     "id": 28,
                     "language_code": "fr",
                     "name": "Honoré de Balzac",
@@ -967,7 +964,7 @@
                     "sorting_name": "Fourier, Jean Baptiste Joseph"
                 },
                 {
-                    "description": "mathématicien français",
+                    "description": "mathématicien et physicien français",
                     "id": 206,
                     "language_code": "fr",
                     "name": "Joseph Fourier",
@@ -1233,7 +1230,7 @@
             "id": 11,
             "localizations": [
                 {
-                    "description": "Guatemalan poet, novelist, playwright, journalist and diplomat",
+                    "description": "Guatemalan writer and diplomat",
                     "id": 21,
                     "language_code": "en",
                     "name": "Miguel Ángel Asturias",
@@ -1803,7 +1800,13 @@
                     "code": "tomb"
                 },
                 {
+                    "code": "cinema"
+                },
+                {
                     "code": "literature"
+                },
+                {
+                    "code": "music"
                 },
                 {
                     "code": "men"
@@ -2637,7 +2640,7 @@
                     "sorting_name": "Vaillant-Couturier, Paul"
                 },
                 {
-                    "description": "personnalité politique française",
+                    "description": "écrivain, journaliste et homme politique français",
                     "id": 500,
                     "language_code": "fr",
                     "name": "Paul Vaillant-Couturier",
@@ -2984,7 +2987,7 @@
                 ]
             },
             "wikimedia_commons_category": {
-                "wikimedia_commons_id": "Category:Grave of Pierre Georges"
+                "wikimedia_commons_id": "Category:Monument à la Brigade Fabien (Père-Lachaise, division 97)"
             }
         },
         {
@@ -3017,6 +3020,9 @@
             "superlachaise_categories": [
                 {
                     "code": "tomb"
+                },
+                {
+                    "code": "literature"
                 },
                 {
                     "code": "politics"
@@ -3293,6 +3299,9 @@
                 },
                 {
                     "code": "art"
+                },
+                {
+                    "code": "literature"
                 },
                 {
                     "code": "medias"
@@ -4235,7 +4244,7 @@
                     "sorting_name": "Beaucé"
                 },
                 {
-                    "description": "peintre français",
+                    "description": "peintre et illustrateur français",
                     "id": 42,
                     "language_code": "fr",
                     "name": "Jean-Adolphe Beaucé",
@@ -4286,7 +4295,7 @@
                     "sorting_name": "Nerval, Gerard De"
                 },
                 {
-                    "description": "écrivain français",
+                    "description": "poète, conteur, auteur dramatique, librettiste et journaliste français",
                     "id": 366,
                     "language_code": "fr",
                     "name": "Gérard de Nerval",
@@ -4303,6 +4312,9 @@
                 },
                 {
                     "code": "literature"
+                },
+                {
+                    "code": "medias"
                 },
                 {
                     "code": "theatre"
@@ -4761,7 +4773,7 @@
                     "sorting_name": "Méliès"
                 },
                 {
-                    "description": "réalisateur de films français",
+                    "description": "inéaste, acteur, producteur, réalisateur, prestidigitateur et illusionniste français, pionnier et inventeur du spectacle cinématographique",
                     "id": 324,
                     "language_code": "fr",
                     "name": "Georges Méliès",
@@ -4968,7 +4980,7 @@
                     "sorting_name": "Vallès"
                 },
                 {
-                    "description": "écrivain français",
+                    "description": "journaliste, écrivain, homme politique français",
                     "id": 502,
                     "language_code": "fr",
                     "name": "Jules Vallès",
@@ -4988,6 +5000,9 @@
                 },
                 {
                     "code": "medias"
+                },
+                {
+                    "code": "politics"
                 },
                 {
                     "code": "men"
@@ -5991,7 +6006,7 @@
                     "sorting_name": "Corot, Jean-Baptiste-Camille"
                 },
                 {
-                    "description": "artiste français",
+                    "description": "peintre français",
                     "id": 130,
                     "language_code": "fr",
                     "name": "Jean-Baptiste Camille Corot",
@@ -6240,7 +6255,7 @@
             }
         },
         {
-            "burial_plot_reference": "25",
+            "burial_plot_reference": "",
             "date_of_birth": "1621-07-08",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1695-04-13",
@@ -6248,17 +6263,17 @@
             "id": 144,
             "localizations": [
                 {
-                    "description": "French poet, fabulist and writer",
+                    "description": "",
                     "id": 287,
                     "language_code": "en",
-                    "name": "Jean de La Fontaine",
-                    "sorting_name": "La Fontaine, Jean De"
+                    "name": "La Fontaine's tomb",
+                    "sorting_name": "La Fontaine"
                 },
                 {
-                    "description": "poète, fabuliste et écrivain français",
+                    "description": "sculpture française",
                     "id": 288,
                     "language_code": "fr",
-                    "name": "Jean de La Fontaine",
+                    "name": "Monument funéraire de La Fontaine",
                     "sorting_name": "La Fontaine"
                 }
             ],
@@ -6271,27 +6286,24 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "literature"
-                },
-                {
-                    "code": "men"
+                    "code": "other"
                 }
             ],
             "wikidata_entries": {
                 "artists": [],
-                "others": [],
-                "persons": [
+                "others": [
                     {
-                        "wikidata_id": "Q49496"
+                        "wikidata_id": "Q3323381"
                     }
-                ]
+                ],
+                "persons": []
             },
             "wikimedia_commons_category": {
                 "wikimedia_commons_id": "Category:Grave of Jean de La Fontaine"
             }
         },
         {
-            "burial_plot_reference": "25",
+            "burial_plot_reference": "",
             "date_of_birth": "1622-01-15",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1673-02-17",
@@ -6299,17 +6311,17 @@
             "id": 167,
             "localizations": [
                 {
-                    "description": "French playwright and actor",
+                    "description": "",
                     "id": 333,
                     "language_code": "en",
-                    "name": "Molière",
+                    "name": "Molière's tomb",
                     "sorting_name": "Molière"
                 },
                 {
-                    "description": "dramaturge et comédien français",
+                    "description": "tombeau dans le 20e arrondissement de Paris",
                     "id": 334,
                     "language_code": "fr",
-                    "name": "Molière",
+                    "name": "Monument funéraire de Molière",
                     "sorting_name": "Molière"
                 }
             ],
@@ -6322,26 +6334,17 @@
                     "code": "tomb"
                 },
                 {
-                    "code": "literature"
-                },
-                {
-                    "code": "medias"
-                },
-                {
-                    "code": "theatre"
-                },
-                {
-                    "code": "men"
+                    "code": "other"
                 }
             ],
             "wikidata_entries": {
                 "artists": [],
-                "others": [],
-                "persons": [
+                "others": [
                     {
-                        "wikidata_id": "Q687"
+                        "wikidata_id": "Q3323385"
                     }
-                ]
+                ],
+                "persons": []
             },
             "wikimedia_commons_category": {
                 "wikimedia_commons_id": "Category:Grave of Molière"
@@ -7910,7 +7913,11 @@
             ],
             "wikidata_entries": {
                 "artists": [],
-                "others": [],
+                "others": [
+                    {
+                        "wikidata_id": "Q15168424"
+                    }
+                ],
                 "persons": [
                     {
                         "wikidata_id": "Q380045"
@@ -8153,7 +8160,7 @@
                     "sorting_name": "Sieyès"
                 },
                 {
-                    "description": "homme politique, Révolution française et Directoire",
+                    "description": "prêtre catholique français, théoricien révolutionnaire et homme politique, Membre de l'Académie française",
                     "id": 462,
                     "language_code": "fr",
                     "name": "Emmanuel-Joseph Sieyès",
@@ -8990,7 +8997,7 @@
                     "sorting_name": "Brillat-Savarin, Jean Anthelme"
                 },
                 {
-                    "description": "personnalité politique française",
+                    "description": "personnalité politique, magistrat et gastronome français",
                     "id": 82,
                     "language_code": "fr",
                     "name": "Jean Anthelme Brillat-Savarin",
@@ -9044,11 +9051,11 @@
                     "sorting_name": "Saint-Simon, Claude"
                 },
                 {
-                    "description": "philosophe français",
+                    "description": "économiste et philosophe français",
                     "id": 446,
                     "language_code": "fr",
-                    "name": "Claude Henri de Rouvroy, comte de Saint Simon",
-                    "sorting_name": "Rouvroy, comte de Saint Simon"
+                    "name": "Claude-Henri de Rouvroy de Saint-Simon",
+                    "sorting_name": "Saint-Simon, Claude Henri de Rouvroy, comte de"
                 }
             ],
             "openstreetmap_element": {
@@ -9070,6 +9077,9 @@
                 },
                 {
                     "code": "research"
+                },
+                {
+                    "code": "urbanism"
                 },
                 {
                     "code": "men"
@@ -10677,7 +10687,7 @@
                     "sorting_name": "Panckoucke, Charles-Joseph"
                 },
                 {
-                    "description": "écrivain et éditeur français",
+                    "description": "écrivain, imprimeur-libraire et éditeur français",
                     "id": 386,
                     "language_code": "fr",
                     "name": "Charles-Joseph Panckoucke",
@@ -11026,7 +11036,7 @@
             "burial_plot_reference": "37",
             "date_of_birth": "1765-11-17",
             "date_of_birth_accuracy": "Day",
-            "date_of_death": "1840-09-07",
+            "date_of_death": "1840-09-25",
             "date_of_death_accuracy": "Day",
             "id": 156,
             "localizations": [
@@ -11360,7 +11370,7 @@
                     "id": 372,
                     "language_code": "fr",
                     "name": "Tony Noël",
-                    "sorting_name": "Noël"
+                    "sorting_name": "Noël, Tony"
                 }
             ],
             "openstreetmap_element": {
@@ -11486,7 +11496,7 @@
             "id": 73,
             "localizations": [
                 {
-                    "description": "",
+                    "description": "Nazi concentration camp",
                     "id": 145,
                     "language_code": "en",
                     "name": "Dachau concentration camp",
@@ -12138,7 +12148,7 @@
                     "sorting_name": "Deherme"
                 },
                 {
-                    "description": "initiateur des Universités populaires",
+                    "description": "ouvrier sculpteur sur bois, typographe et libertaire français, initiateur des Universités populaires",
                     "id": 164,
                     "language_code": "fr",
                     "name": "Georges Deherme",
@@ -12330,7 +12340,7 @@
                     "sorting_name": "Soulié"
                 },
                 {
-                    "description": "écrivain français",
+                    "description": "journaliste, dramaturge et romancier français",
                     "id": 468,
                     "language_code": "fr",
                     "name": "Frédéric Soulié",
@@ -12424,7 +12434,7 @@
         },
         {
             "burial_plot_reference": "48",
-            "date_of_birth": "1807-12-16",
+            "date_of_birth": "1806-12-16",
             "date_of_birth_accuracy": "Day",
             "date_of_death": "1872-07-07",
             "date_of_death_accuracy": "Day",
@@ -13499,7 +13509,7 @@
                 ]
             },
             "wikimedia_commons_category": {
-                "wikimedia_commons_id": "Category:Grave of Adolphe Thiers"
+                "wikimedia_commons_id": "Category:Grave of Thiers (Père-Lachaise, division 55)"
             }
         },
         {
@@ -13886,6 +13896,48 @@
             "wikimedia_commons_category": {
                 "wikimedia_commons_id": "Category:Grave of Delpech (Père-Lachaise, division 49)"
             }
+        },
+        {
+            "burial_plot_reference": "",
+            "date_of_birth": null,
+            "date_of_birth_accuracy": "",
+            "date_of_death": null,
+            "date_of_death_accuracy": "",
+            "id": 267,
+            "localizations": [
+                {
+                    "description": "",
+                    "id": 533,
+                    "language_code": "en",
+                    "name": "Ernest Caillat",
+                    "sorting_name": "Ernest Caillat"
+                },
+                {
+                    "description": "",
+                    "id": 534,
+                    "language_code": "fr",
+                    "name": "Ernest Caillat",
+                    "sorting_name": "Ernest Caillat"
+                }
+            ],
+            "openstreetmap_element": {
+                "openstreetmap_id": "4484134201",
+                "type": "node"
+            },
+            "superlachaise_categories": [
+                {
+                    "code": "tomb"
+                },
+                {
+                    "code": "other"
+                }
+            ],
+            "wikidata_entries": {
+                "artists": [],
+                "others": [],
+                "persons": []
+            },
+            "wikimedia_commons_category": null
         }
     ]
 }
